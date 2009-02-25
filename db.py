@@ -22,10 +22,10 @@ class MiniDiag:
 	def __str__(self):
 		str = self.presentation + '\n\n'
 		for i,v in enumerate(self.dd):
-			str += 'D %d: %s\n' % (i+1, v)
+			str += '  D %d: %s\n' % (i+1, v)
 		str += '\n'
 		for i,v in enumerate(self.ww):
-			str += 'W %d: %s\n' % (i+1, v)
+			str += '  W %d: %s\n' % (i+1, v)
 		return str
 
 class DB:
@@ -90,11 +90,13 @@ class Test:
 
 	def administer(self):
 		print self.minidiag.presentation
+		print '-----'
 		for i in xrange(5):
-			res = raw_input('D %d:' % i)
+			res = raw_input('D %d: ' % (i+1))
 			self.dd.append(res)
+		print '-----'
 		for i in xrange(5):
-			res = raw_input('W %d:' % i)
+			res = raw_input('W %d: ' % (i+1))
 			self.ww.append(res)
 
 	def show(self, with_md=True):
@@ -103,10 +105,10 @@ class Test:
 			print self.minidiag
 		print "RESP_D"
 		for i,v in enumerate(self.dd):
-			print (i+1), v
+			print ' ', (i+1), v
 		print "RESP_W"
 		for i,v in enumerate(self.ww):
-			print (i+1), v
+			print ' ', (i+1), v
 		print '------------------'
 
 class Tester:
