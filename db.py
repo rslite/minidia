@@ -1,4 +1,4 @@
-import random
+import random, sys
 
 class Section:
 	def __init__(self, name):
@@ -19,6 +19,14 @@ class MiniDiag:
 		self.ww = []
 	def __repr__(self):
 		return '%s\nDDD:\n%s\nWWW:\n%s' % (self.presentation, repr(self.dd), repr(self.ww))
+	def __str__(self):
+		str = self.presentation + '\n\n'
+		for i,v in enumerate(self.dd):
+			str += 'D %d: %s\n' % (i+1, v)
+		str += '\n'
+		for i,v in enumerate(self.ww):
+			str += 'W %d: %s\n' % (i+1, v)
+		return str
 
 class DB:
 	def __init__(self):
@@ -92,11 +100,13 @@ class Test:
 	def show(self, with_md=True):
 		print '------------------'
 		if with_md:
-			print repr(self.minidiag)
+			print self.minidiag
 		print "RESP_D"
-		print '\n'.join(self.dd)
+		for i,v in enumerate(self.dd):
+			print (i+1), v
 		print "RESP_W"
-		print '\n'.join(self.ww)
+		for i,v in enumerate(self.ww):
+			print (i+1), v
 		print '------------------'
 
 class Tester:
@@ -111,15 +121,19 @@ class Tester:
 	def random_test(self):
 		""" Administer a random test """
 		md = self.db.random_all()
-		tr = TestResponse(md)
+		tr = Test(md)
 		tr.administer()
-
+		self.tests.append(tr)
 
 	def results(self):
 		""" Print the results of the test """
 		print "*** Test results ***"
+		for t in self.tests:
+			t.show()
 
 def main():
+	if len(sys.argv) > 1:
+		random.seed(int(sys.argv[1]))
 	db = DB()
 	tester = Tester(db)
 	tester.init_session()
