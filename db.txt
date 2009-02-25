@@ -1,0 +1,432 @@
+:S
+Headache
+:Key History
+Location (especially unilateral vs. bilateral), quality, intensity, duration, timing (does it disturb sleepfi);
+presence of associated neurologic symptoms, nausea, jaw claudication; recent trauma, dental surgery, si-
+nusitis symptoms; exacerbating (stress, fatigue, menses, exercise) and alleviating factors (rest, medicines);
+past history of headache; family history of migraines.
+:Key Physical Exam
+Vital signs; inspection and palpation of entire head; ENT inspection; complete neurologic exam, includ-
+ing funduscopic exam.
+:P
+21 yo F presents with several episodes of
+throbbing left temporal pain that lasts for
+2–3 hours. Prior to its onset, she sees
+fiashes of light in her right visual field
+and feels weakness and numbness on the
+right side of her body for a few minutes.
+Headaches are often associated with
+nausea and vomiting. She has a family
+history of migraine.
+:D
+Migraine (complicated)
+Tension headache
+Cluster headache
+Pseudotumor cerebri
+Trigeminal neuralgia
+CNS vasculitis
+Partial seizure
+Intracranial neoplasm
+:W
+CBC
+ESR
+CT-head
+MRI-brain
+LP
+:P
+26 yo M presents with terrible right
+temporal headaches associated with
+ipsilateral rhinorrhea and eye tearing and
+redness. Episodes have occurred at the
+same time every night for the past week
+and last for 45 minutes.
+:D
+Cluster headache
+Migraine
+Tension headache
+Sinusitis
+Pseudotumor cerebri
+Trigeminal neuralgia
+Intracranial neoplasm
+:W
+CBC
+ESR
+CT-head
+MRI-brain
+LP
+:P
+65 yo F presents with severe, intermittent
+right temporal headache, fever, blurred
+vision in her right eye, and pain in her
+jaw when chewing.
+:D
+Temporal arteritis (giant cell
+arteritis) 
+Migraine
+Cluster headache
+Tension headache
+Meningitis
+Carotid artery dissection
+Pseudotumor cerebri
+Trigeminal neuralgia
+Intracranial neoplasm
+:W
+CBC
+ESR
+CRP
+Temporal artery biopsy
+Doppler U/S-carotid
+MRI-brain
+:P
+30 yo F presents with frontal headache,
+fever, and nasal discharge. There is pain
+on palpation of the frontal and maxillary
+sinuses. She has a history of sinusitis.
+:D
+Sinusitis
+Migraine
+Tension headache
+Meningitis
+Intracranial neoplasm
+:W
+CBC
+CT-sinus
+LP
+:P
+50 yo F presents with recurrent episodes
+of bilateral squeezing headaches that
+occur 3–4 times a week. She is
+experiencing significant stress in her life.
+:D
+Tension headache
+Migraine
+Depression
+Caffeine or analgesic withdrawal
+Hypertension
+Cluster headache
+Pseudotumor cerebri
+Intracranial neoplasm
+:W
+CBC
+Electrolytes
+ESR
+CT-head
+LP
+:P
+35 yo M presents with sudden severe
+headache, vomiting, confusion, left
+hemiplegia, and nuchal rigidity.
+:D
+Subarachnoid hemorrhage
+Migraine
+Meningitis/encephalitis
+Intracranial hemorrhage
+Vertebral artery dissection
+Intracranial venous thrombosis
+Acute hypertension
+Intracranial neoplasm
+:W
+CT-head
+LP
+CBC
+PT/PTT
+MRI/MRA-brain
+:P
+25 yo M presents with high fever, severe
+headache, confusion, photophobia, and
+nuchal rigidity. Kernig’s and Brudzinski’s
+signs are positive.
+:D
+Meningitis
+Migraine
+Subarachnoid hemorrhage
+Sinusitis/encephalitis
+Intracranial or epidural abscess
+:W
+CBC
+CT-head
+MRI-brain
+LP-CSF analysis (cell count, protein, glucose, Gram stain, PCR for antigens, culture)
+:P
+18 yo obese F presents with headache, vomiting, and blurred vision for the past 2–3 weeks. She is taking OCPs.
+:D
+Pseudotumor cerebri
+Tension headache
+Migraine
+Cluster headache
+Meningitis
+Intracranial venous thrombosis
+Intracranial neoplasm
+:W
+Urine hCG
+CBC
+CT-head
+LP-opening pressure and CSF analysis
+:P
+47 yo M c/o daily pain in the right cheek
+over the past month. The pain is electric
+in character and occurs while he is
+shaving. Each episode lasts 2–4 minutes.
+Trigeminal neuralgia
+Tension headache
+Migraine
+Cluster headache
+TMJ dysfunction
+Intracranial neoplasm
+CBC
+ESR
+MRI-brain
+:S
+Confusion/Memory Loss
+:Key History
+Must include history from family members/caregivers. Detailed time course of cognitive deficits, associ-
+ated symptoms (constitutional, incontinence, ataxia, hypothyroid symptoms, depression); screen for
+delirium (waxing/waning level of alertness); ADL/IADL status, falls, medications (and recent medication
+changes); history of stroke or other atherosclerotic vascular disease, syphilis, HIV risk factors, alcohol use,
+or vitamin B12 deficiency; family history of Alzheimer’s disease.
+:Key Physical Exam
+Vital signs; complete neurologic exam, including mini-mental status exam and gait; general physical
+exam, including ENT, heart, lungs, abdomen, and extremities.
+Presentation Differential Workup
+:P
+81 yo M presents with progressive
+confusion over the past several years
+together with forgetfulness and
+clumsiness. He has a history of
+hypertension, diabetes mellitus, and two
+strokes with residual left hemiparesis.
+Mental status has clearly worsened after
+each stroke.
+:D
+Vascular (“multi-infarct”) dementia
+Alzheimer’s disease
+Normal pressure hydrocephalus
+Chronic subdural hematoma
+Intracranial tumor
+Depression
+B12 deficiency
+Neurosyphilis
+Hypothyroidism
+:W
+CBC
+VDRL/RPR
+Serum B12
+TSH
+MRI-brain
+CT-head
+LP-CSF analysis (rare)
+:P
+84 yo F brought by her son c/o
+forgetfulness (e.g., forgets phone
+numbers, loses her way back home)
+along with difficulty performing some of
+her daily activities (e.g., bathing,
+dressing, managing money, using the
+phone). The problem has gradually
+progressed over the past few years.
+:D
+Alzheimer’s disease
+Vascular dementia
+Depression
+Hypothyroidism
+Chronic subdural hematoma
+Normal pressure hydrocephalus
+Intracranial tumor
+B12 deficiency
+Neurosyphilis
+:W
+CBC
+VDRL/RPR
+Serum B12
+TSH
+MRI-brain (preferred)
+CT-head
+LP-CSF analysis (rare)
+:P
+72 yo M presents with memory loss, gait
+disturbance, and urinary incontinence
+for the past six months.
+:D
+Normal pressure hydrocephalus 
+Alzheimer’s disease
+Vascular dementia
+Chronic subdural hematoma
+Intracranial tumor
+Depression
+B12 deficiency
+Neurosyphilis
+Hypothyroidism
+:W
+CT-head
+LP-opening pressure and CSF
+analysis
+Serum B12
+VDRL/RPR
+TSH
+:P
+55 yo M presents with a rapidly
+progressive change in mental status,
+inability to concentrate, and memory
+impairment for the past two months. His
+symptoms are associated with myoclonus
+and ataxia.
+:D
+Creutzfeldt-Jakob disease
+Vascular dementia
+Lewy body dementia
+Wernicke’s encephalopathy
+Normal pressure hydrocephalus
+Chronic subdural hematoma
+Intracranial tumor
+Depression
+Delirium
+B12 deficiency
+Neurosyphilis
+:W
+CBC, electrolytes, calcium
+Serum B12
+VDRL/RPR
+MRI-brain (preferred)
+CT-head
+EEG
+LP-CSF analysis
+Brain biopsy
+:P
+70 yo insulin-dependent diabetic M
+presents with episodes of confusion,
+dizziness, palpitation, diaphoresis, and
+weakness.
+:D
+Hypoglycemia
+Transient ischemic attack
+Arrhythmia
+Delirium
+Angina
+:W
+Glucose
+CBC, electrolytes
+Echocardiography
+ECG
+MRI-brain
+Doppler U/S-carotid
+:P
+55 yo F presents with gradual altered
+mental status and headache. Two weeks
+ago she slipped, hit her head on the
+ground, and lost consciousness for two
+minutes.
+:D
+Subdural hematoma
+SIADH (causing hyponatremia)
+Creutzfeldt-Jakob disease
+Intracranial tumor
+Electrolytes
+:W
+CT-head
+MRI-brain
+LP
+:S
+DIZZINESS
+:Key History
+Lightheadedness vs. vertigo, ± auditory symptoms (hearing loss, tinnitus), duration of episodes, context
+(occurs with positioning, following head trauma), other associated symptoms (visual disturbance, URI,
+nausea); neck pain or injury; medications; history of atherosclerotic vascular disease.
+:Key Physical Exam
+Vital signs; complete neurologic exam, including Romberg test, nystagmus, tilt test (e.g., Dix-Hallpike
+maneuver), gait, hearing, and Weber and Rinne tests; head and neck exam; cardiovascular exam.
+Presentation Differential Workup
+:P
+35 yo F presents with intermittent
+episodes of vertigo, tinnitus, nausea, and
+hearing loss over the past week.
+:D
+Ménière’s disease
+Vestibular neuronitis
+Labyrinthitis
+Benign positional vertigo
+Acoustic neuroma
+:W
+CBC
+VDRL/RPR (syphilis is a cause of Ménière’s disease)
+MRI-brain
+:P
+55 yo F c/o dizziness for the past day.
+She feels faint and has severe diarrhea
+that started two days ago. She takes
+furosemide for her hypertension.
+:D
+Orthostatic hypotension due to dehydration (diarrhea, diuretic use)
+Vestibular neuronitis
+Labyrinthitis
+Benign positional vertigo
+Vertebrobasilar insufficiency
+Orthostatic vital signs
+:W
+CBC
+Electrolytes
+Stool exam (occult blood, fecal leukocytes)
+:P
+65 yo M presents with postural dizziness
+and unsteadiness. He has hypertension
+and was started on hydrochlorothiazide
+two days ago.
+:D
+Drug-induced orthostatic hypotension
+Vestibular neuronitis
+Labyrinthitis
+Benign positional vertigo
+Brain stem or cerebellar tumor
+Acute renal failure
+Orthostatic vital signs
+:W
+CBC
+Electrolytes
+BUN/Cr
+MRI-brain
+:P
+44 yo F c/o dizziness on moving her
+head to the left. She feels that the room
+is spinning around her head. Tilt test
+results in nystagmus and nausea.
+:D
+Benign positional vertigo
+Vestibular neuronitis
+Labyrinthitis
+Ménière’s disease
+:W
+MRI-brain
+Audiogram
+:P
+55 yo F c/o dizziness that started this
+morning. She is nauseated and has
+vomited once in the past day. She had a
+URI two days ago and has experienced
+no hearing loss.
+:D
+Vestibular neuronitis
+Labyrinthitis
+Ménière’s disease
+Benign positional vertigo
+Vertigo associated with cervical spine disease/injury
+Vertebrobasilar insufficiency
+:W
+CBC
+Electrolytes
+Electronystagmography
+MRI/MRA-brain
+:P
+55 yo F c/o dizziness that started this
+morning and of “not hearing well.” She
+feels nauseated and has vomited once in
+the past day. She had a URI two days ago.
+:D
+Labyrinthitis 
+Vestibular neuronitis
+Ménière’s disease
+Acoustic neuroma
+Vertebrobasilar insufficiency
+:W
+Audiogram
+Electronystagmography
+MRI/MRA-brain
+
