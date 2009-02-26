@@ -11,7 +11,7 @@ ing funduscopic exam.
 :P
 21 yo F presents with several episodes of
 throbbing left temporal pain that lasts for
-2–3 hours. Prior to its onset, she sees
+2-3 hours. Prior to its onset, she sees
 fiashes of light in her right visual field
 and feels weakness and numbness on the
 right side of her body for a few minutes.
@@ -95,7 +95,7 @@ LP
 :P
 50 yo F presents with recurrent episodes
 of bilateral squeezing headaches that
-occur 3–4 times a week. She is
+occur 3-4 times a week. She is
 experiencing significant stress in her life.
 :D
 Tension headache
@@ -134,7 +134,7 @@ MRI/MRA-brain
 :P
 25 yo M presents with high fever, severe
 headache, confusion, photophobia, and
-nuchal rigidity. Kernig’s and Brudzinski’s
+nuchal rigidity. Kernig's and Brudzinski's
 signs are positive.
 :D
 Meningitis
@@ -148,7 +148,7 @@ CT-head
 MRI-brain
 LP-CSF analysis (cell count, protein, glucose, Gram stain, PCR for antigens, culture)
 :P
-18 yo obese F presents with headache, vomiting, and blurred vision for the past 2–3 weeks. She is taking OCPs.
+18 yo obese F presents with headache, vomiting, and blurred vision for the past 2-3 weeks. She is taking OCPs.
 :D
 Pseudotumor cerebri
 Tension headache
@@ -166,7 +166,7 @@ LP-opening pressure and CSF analysis
 47 yo M c/o daily pain in the right cheek
 over the past month. The pain is electric
 in character and occurs while he is
-shaving. Each episode lasts 2–4 minutes.
+shaving. Each episode lasts 2-4 minutes.
 Trigeminal neuralgia
 Tension headache
 Migraine
@@ -183,7 +183,7 @@ Must include history from family members/caregivers. Detailed time course of cog
 ated symptoms (constitutional, incontinence, ataxia, hypothyroid symptoms, depression); screen for
 delirium (waxing/waning level of alertness); ADL/IADL status, falls, medications (and recent medication
 changes); history of stroke or other atherosclerotic vascular disease, syphilis, HIV risk factors, alcohol use,
-or vitamin B12 deficiency; family history of Alzheimer’s disease.
+or vitamin B12 deficiency; family history of Alzheimer's disease.
 :Key Physical Exam
 Vital signs; complete neurologic exam, including mini-mental status exam and gait; general physical
 exam, including ENT, heart, lungs, abdomen, and extremities.
@@ -198,8 +198,8 @@ strokes with residual left hemiparesis.
 Mental status has clearly worsened after
 each stroke.
 :D
-Vascular (“multi-infarct”) dementia
-Alzheimer’s disease
+Vascular ("multi-infarct") dementia
+Alzheimer's disease
 Normal pressure hydrocephalus
 Chronic subdural hematoma
 Intracranial tumor
@@ -225,7 +225,7 @@ dressing, managing money, using the
 phone). The problem has gradually
 progressed over the past few years.
 :D
-Alzheimer’s disease
+Alzheimer's disease
 Vascular dementia
 Depression
 Hypothyroidism
@@ -248,7 +248,7 @@ disturbance, and urinary incontinence
 for the past six months.
 :D
 Normal pressure hydrocephalus 
-Alzheimer’s disease
+Alzheimer's disease
 Vascular dementia
 Chronic subdural hematoma
 Intracranial tumor
@@ -274,7 +274,7 @@ and ataxia.
 Creutzfeldt-Jakob disease
 Vascular dementia
 Lewy body dementia
-Wernicke’s encephalopathy
+Wernicke's encephalopathy
 Normal pressure hydrocephalus
 Chronic subdural hematoma
 Intracranial tumor
@@ -328,7 +328,7 @@ LP
 :S
 DIZZINESS
 :Key History
-Lightheadedness vs. vertigo, ± auditory symptoms (hearing loss, tinnitus), duration of episodes, context
+Lightheadedness vs. vertigo, + auditory symptoms (hearing loss, tinnitus), duration of episodes, context
 (occurs with positioning, following head trauma), other associated symptoms (visual disturbance, URI,
 nausea); neck pain or injury; medications; history of atherosclerotic vascular disease.
 :Key Physical Exam
@@ -340,14 +340,14 @@ Presentation Differential Workup
 episodes of vertigo, tinnitus, nausea, and
 hearing loss over the past week.
 :D
-Ménière’s disease
+Meniere's disease
 Vestibular neuronitis
 Labyrinthitis
 Benign positional vertigo
 Acoustic neuroma
 :W
 CBC
-VDRL/RPR (syphilis is a cause of Ménière’s disease)
+VDRL/RPR (syphilis is a cause of Meniere's disease)
 MRI-brain
 :P
 55 yo F c/o dizziness for the past day.
@@ -392,7 +392,7 @@ results in nystagmus and nausea.
 Benign positional vertigo
 Vestibular neuronitis
 Labyrinthitis
-Ménière’s disease
+Meniere's disease
 :W
 MRI-brain
 Audiogram
@@ -405,7 +405,7 @@ no hearing loss.
 :D
 Vestibular neuronitis
 Labyrinthitis
-Ménière’s disease
+Meniere's disease
 Benign positional vertigo
 Vertigo associated with cervical spine disease/injury
 Vertebrobasilar insufficiency
@@ -416,13 +416,13 @@ Electronystagmography
 MRI/MRA-brain
 :P
 55 yo F c/o dizziness that started this
-morning and of “not hearing well.” She
+morning and of "not hearing well." She
 feels nauseated and has vomited once in
 the past day. She had a URI two days ago.
 :D
 Labyrinthitis 
 Vestibular neuronitis
-Ménière’s disease
+Meniere's disease
 Acoustic neuroma
 Vertebrobasilar insufficiency
 :W
@@ -455,9 +455,9 @@ Hypoglycemia
 CBC, electrolytes, glucose
 Urine toxicology
 EEG
-MRI—brain
-CT—head
-LP—CSF analysis
+MRI-brain
+CT-head
+LP-CSF analysis
 ECG
 55 yo M c/o falling after feeling dizzy
 and unsteady. He experienced transient
@@ -475,10 +475,10 @@ Pulmonary embolism
 Orthostatic vital signs
 CBC
 Electrolytes
-CT—head
+CT-head
 ECG
 V/Q scan
-CT—chest with IV contrast
+CT-chest with IV contrast
 65 yo M presents after falling and losing
 consciousness for a few seconds. He had
 no warning prior to passing out but
@@ -496,11 +496,11 @@ Holter monitoring
 CBC, electrolytes
 Glucose
 Echocardiography
-CT—head
+CT-head
 :S
 NUMBNESS/WEAKNESS
 :Key History
-Distribution (unilateral, bilateral, proximal, distal), duration, ± progressive, pain (especially headache,
+Distribution (unilateral, bilateral, proximal, distal), duration, + progressive, pain (especially headache,
 neck or back pain); constitutional symptoms, other neurologic symptoms; history of diabetes, alcoholism,
 atherosclerotic vascular disease.
 :Key Physical Exam
@@ -523,15 +523,15 @@ CBC
 Glucose
 Electrolytes
 ECG
-CT—head
-MRI—brain
-Doppler U/S—carotid
+CT-head
+MRI-brain
+Doppler U/S-carotid
 Echocardiography
 EEG
 :P
 68 yo M presents with slurred speech,
 right facial drooping and numbness, and
-right hand weakness. Babinski’s sign is
+right hand weakness. Babinski's sign is
 present on the right. He has a history of
 hypertension, diabetes mellitus, and
 heavy smoking.
@@ -542,15 +542,15 @@ Intracranial tumor
 Subdural or epidural hematoma
 CBC, electrolytes
 PT/PTT
-CT—head
-MRI—brain (preferred)
-Doppler U/S—carotid
+CT-head
+MRI-brain (preferred)
+Doppler U/S-carotid
 Echocardiography
 :P
 33 yo F presents with ascending loss of
 strength in her lower legs over the past
 two weeks. She had a recent URI.
-Guillain-Barré syndrome
+Guillain-Barre syndrome
 Multiple sclerosis
 Polymyositis
 Myasthenia gravis
@@ -558,8 +558,8 @@ Peripheral neuropathy
 Tumor in the vertebral canal
 CBC, electrolytes
 CPK
-LP—CSF analysis
-MRI—spine
+LP-CSF analysis
+MRI-spine
 EMG/nerve conduction study
 Serum B12
 :P
@@ -568,8 +568,8 @@ sensation, and tingling in her left leg that
 started this morning. She is also
 experiencing right eye pain, decreased
 vision, and double vision. She reports
-feeling “electric shocks” down her spine
-upon ?exing her head.
+feeling "electric shocks" down her spine
+upon fiexing her head.
 Multiple sclerosis 
 Stroke
 Conversion disorder
@@ -580,8 +580,8 @@ Syringomyelia
 CNS vasculitis
 CBC, ESR
 RPR/VDRL
-MRI—brain
-LP—CSF analysis
+MRI-brain
+LP-CSF analysis
 Retinal evoked potentials
 :P
 55 yo M presents with tingling and
@@ -594,7 +594,7 @@ and position sense in the feet.
 Diabetic peripheral
 neuropathy
 Alcoholic peripheral neuropathy
-B12 de?ciency
+B12 deficiency
 Hypocalcemia
 Hyperventilation
 Paraproteinemia/myeloma
@@ -609,7 +609,7 @@ SPEP/UPEP
 vision and droopy eyelids at night with
 normalization by morning.
 Myasthenia gravis
-Horner’s syndrome
+Horner's syndrome
 Multiple sclerosis
 Intracranial tumor compressing
 CN III, IV, or VI
@@ -618,22 +618,22 @@ Tensilon test
 ACh receptor antibodies (in
 serum)
 CXR
-CT—chest
-MRI—brain
+CT-chest
+MRI-brain
 EMG
 :P
 25 yo M presents with hemiparesis (after
 a tonic-clonic seizure) that resolves over
 a few hours.
-Todd’s paralysis 
+Todd's paralysis 
 TIA
 Stroke
 Complicated migraine
 Malingering
 CBC, electrolytes
 EEG
-MRI—brain
-Doppler U/S—carotid
+MRI-brain
+Doppler U/S-carotid
 :S
 FATIGUE AND SLEE PINESS
 :Key History
@@ -656,7 +656,7 @@ Anemia
 CBC
 TSH
 HIV/STD testing (given
-husband’s possible risk
+husband's possible risk
 factors)
 :P
 44 yo M presents with fatigue, insomnia,
@@ -702,7 +702,7 @@ CBC
 Glucose
 50 yo obese F presents with fatigue and
 daytime sleepiness. She snores heavily
-and naps 3–4 times per day but never
+and naps 3-4 times per day but never
 feels refreshed. She also has
 hypertension.
 Obstructive sleep apnea
@@ -736,7 +736,7 @@ Polysomnography
 :S
 SORE THROAT
 :Key History
-Duration, fever, other ENT symptoms (ear pain, URI), odynophagia, swollen glands, ± cough, rash; sick
+Duration, fever, other ENT symptoms (ear pain, URI), odynophagia, swollen glands, + cough, rash; sick
 contacts, HIV risk factors.
 :Key Physical Exam
 Vital signs; ENT exam, including oral thrush, tonsillar exudate, and lymphadenopathy; lung, abdominal,
@@ -800,7 +800,7 @@ Acute vs. chronic; presence/description of sputum, associated symptoms (constitu
 drip, dyspnea, wheezing, chest pain, heartburn, other), exacerbating and alleviating factors; exposures;
 smoking history; history of lung disease; allergies; medicines (especially ACE inhibitors).
 :Key Physical Exam
-Vital signs ± pulse oximetry; exam of nasal mucosa, oropharynx, heart, lungs, lymph nodes, and extremi-
+Vital signs + pulse oximetry; exam of nasal mucosa, oropharynx, heart, lungs, lymph nodes, and extremi-
 ties (clubbing, cyanosis, edema).
 Presentation Differential Workup
 :P
@@ -815,7 +815,7 @@ Pneumonitis
 Foreign body
 CBC
 CXR
-Peak ?ow measurement
+Peak fiow measurement
 PFTs
 Methacholine challenge test
 :P
@@ -824,7 +824,7 @@ as well as productive cough that has
 occurred over the past two years for at
 least three months each year. She is a
 heavy smoker.
-COPD—chronic bronchitis
+COPD-chronic bronchitis
 Bronchiectasis
 Lung cancer
 Tuberculosis
@@ -832,8 +832,8 @@ CBC
 Sputum Gram stain and culture
 CXR
 PFTs
-CT—chest
-Puri?ed protein derivative
+CT-chest
+Purified protein derivative
 (PPD)
 :P
 58 yo M presents with pleuritic chest
@@ -849,7 +849,7 @@ Pericarditis
 CBC
 Sputum Gram stain and culture
 CXR
-CT—chest
+CT-chest
 ECG
 PPD
 :P
@@ -859,7 +859,7 @@ she had a sore throat and a runny nose.
 Atypical pneumonia
 Reactive airway disease
 URI-associated
-(“postinfectious”)
+("postinfectious")
 Postnasal drip
 GERD
 CBC
@@ -878,14 +878,14 @@ Lung cancer
 Tuberculosis
 Lung abscess
 COPD
-Vasculitis (i.e., Wegener’s)
+Vasculitis (i.e., Wegener's)
 Interstitial lung disease
 CHF
 CBC
 Sputum Gram stain, culture,
 and cytology
 CXR
-CT—chest
+CT-chest
 PPD
 Bronchoscopy
 :P
@@ -904,10 +904,10 @@ CBC
 CXR
 PFTs
 Sputum Gram stain and culture
-CT—chest
+CT-chest
 :P
 34 yo F nurse presents with worsening
-cough of six weeks’ duration together
+cough of six weeks' duration together
 with weight loss, fatigue, night sweats,
 and fever. She has a history of contact
 with tuberculosis patients at work.
@@ -923,7 +923,7 @@ PPD
 Sputum Gram stain, acid-fast
 stain, and culture
 CXR
-CT—chest
+CT-chest
 Bronchoscopy
 HIV antibody
 :P
@@ -952,7 +952,7 @@ dyspnea.
 CHF
 Cardiac valvular disease
 GERD
-Pulmonary ?brosis
+Pulmonary fibrosis
 COPD
 Postnasal drip
 CBC
@@ -971,7 +971,7 @@ or history of diagnostic testing; cardiac risk factors (hypertension, hyperlipid
 of early MI); pulmonary embolism risk factors (history of DVT, coagulopathy, malignancy, recent immo-
 bilization).
 :Key Physical Exam
-Vital signs ± BP in both arms; complete cardiovascular exam (JVD, PMI, chest wall tenderness, heart
+Vital signs + BP in both arms; complete cardiovascular exam (JVD, PMI, chest wall tenderness, heart
 sounds, pulses, edema); lung and abdominal exams.
 Presentation Differential Workup
 :P
@@ -1001,7 +1001,7 @@ acute onset of severe chest pain. She has
 a history of sickle cell disease and
 multiple previous hospitalizations for
 pain and anemia management.
-Sickle cell disease—pulmonary
+Sickle cell disease-pulmonary
 infarction
 Pneumonia
 Pulmonary embolism
@@ -1015,7 +1015,7 @@ CXR
 CPK-MB, troponin
 ECG
 V/Q scan
-CT—chest with IV contrast
+CT-chest with IV contrast
 45 yo F presents with a retrosternal
 burning sensation that occurs after heavy
 meals and when lying down. Her
@@ -1095,8 +1095,8 @@ CXR
 ABG
 CPK-MB, troponin
 CBC, electrolytes
-CT—chest with IV contrast
-Doppler U/S—legs
+CT-chest with IV contrast
+Doppler U/S-legs
 D-dimer
 :P
 55 yo M presents with sudden onset of
@@ -1142,13 +1142,13 @@ CXR
 CBC, amylase, lipase
 Transesophageal
 echocardiography (TEE),
-MRI/MRA—aorta
+MRI/MRA-aorta
 Aortic angiography
 Upper endoscopy
 :S
 WEIGHT LOSS
 :Key History
-Amount, duration,  ± intentional; diet history, body image, anxiety or depression; other constitutional
+Amount, duration,  + intentional; diet history, body image, anxiety or depression; other constitutional
 symptoms; palpitation, tremor, diarrhea, family history of thyroid disease; HIV risk factors; alcohol and
 drug use; medications; history of cancer.
 :Key Physical Exam
@@ -1156,7 +1156,7 @@ Vital signs; complete physical.
 Presentation Differential Workup
 :P
 42 yo F presents with a 7-kg weight loss
-over the past two months. She has a ?ne
+over the past two months. She has a fine
 tremor, and her pulse is 112.
 Hyperthyroidism
 Cancer
@@ -1175,7 +1175,7 @@ Amount, duration, timing (relation to medication changes, smoking cessation, dep
 hypothyroid symptoms (fatigue, constipation, skin/hair/nail changes); menstrual irregularity; past med-
 ical history; alcohol and drug use.
 :Key Physical Exam
-Vital signs; complete exam, including signs of Cushing’s syndrome (hypertension, central obesity, moon
+Vital signs; complete exam, including signs of Cushing's syndrome (hypertension, central obesity, moon
 face, buffalo hump, supraclavicular fat pads, purple abdominal striae).
 Presentation Differential Workup
 :P
@@ -1188,7 +1188,7 @@ constipation.
 Smoking cessation
 Drug side effect
 Hypothyroidism
-Cushing’s syndrome
+Cushing's syndrome
 Polycystic ovary syndrome
 Diabetes mellitus
 Depression
@@ -1199,9 +1199,9 @@ Dexamethasone suppression test
 :S
 DYSPHAGIA
 :Key History
-Solids vs. both solids and liquids, ± progressive, constitutional symptoms (especially weight loss), drooling, re-
+Solids vs. both solids and liquids, + progressive, constitutional symptoms (especially weight loss), drooling, re-
 gurgitation, odynophagia, GERD symptoms; medications; HIV risk factors, history of smoking, history of
-Raynaud’s phenomenon.
+Raynaud's phenomenon.
 :Key Physical Exam
 Vital signs; head and neck exam; heart, lung, and abdominal exams; skin exam (for signs of sclero-
 derma/CREST).
@@ -1223,7 +1223,7 @@ CBC
 CXR
 Endoscopy with biopsy
 Barium swallow
-CT—chest
+CT-chest
 :P
 45 yo F presents with dysphagia for two
 weeks together with fatigue and a craving
@@ -1251,7 +1251,7 @@ Esophagitis
 Systemic sclerosis
 Mitral valve stenosis
 Esophageal stricture
-Zenker’s diverticulum
+Zenker's diverticulum
 CXR
 Endoscopy
 Barium swallow
@@ -1265,7 +1265,7 @@ induced)
 Systemic sclerosis
 GERD
 Esophageal stricture
-Zenker’s diverticulum
+Zenker's diverticulum
 CBC
 Endoscopy
 Barium swallow
@@ -1274,7 +1274,7 @@ CD4 count
 :S
 NAUSEA/VOMITING
 :Key History
-Acuity of onset,  ± abdominal pain, relation to meals, sick contacts, possible food poisoning, possible
+Acuity of onset,  + abdominal pain, relation to meals, sick contacts, possible food poisoning, possible
 pregnancy; neurologic symptoms (headache, stiff neck, vertigo, focal numbness or weakness), other asso-
 ciated symptoms (GI, chest pain), exacerbating and alleviating factors; medications.
 :Key Physical Exam
@@ -1288,7 +1288,7 @@ tional, GI, cardiac, pulmonary, renal, pelvic, other), exacerbating and alleviat
 similar symptoms; history of abdominal surgeries, gallstones, renal stones, atherosclerotic vascular dis-
 ease; medications; alcohol and drug use; domestic violence.
 :Key Physical Exam
-Vital signs; heart and lung exams; abdominal exam, including guarding, rebound, Murphy’s sign, and
+Vital signs; heart and lung exams; abdominal exam, including guarding, rebound, Murphy's sign, and
 CVA palpation; rectal exam; pelvic exam (women).
 Presentation Differential Workup
 :P
@@ -1307,7 +1307,7 @@ UTI
 Depression
 Urine hCG
 Pelvic exam
-U/S—pelvis
+U/S-pelvis
 CBC, electrolytes, calcium,
 glucose
 UA, urine culture
@@ -1318,7 +1318,7 @@ surface antigen, and
 RPR/VDRL
 :P
 45 yo M presents with sudden onset of
-colicky right-sided ?ank pain that
+colicky right-sided fiank pain that
 radiates to the testicles, accompanied by
 nausea, vomiting, hematuria, and CVA
 tenderness.
@@ -1330,8 +1330,8 @@ Rectal exam
 UA
 Urine culture and sensitivity
 BUN/Cr
-CT—abdomen
-U/S—renal
+CT-abdomen
+U/S-renal
 IVP
 :P
 60 yo M presents with dull epigastric
@@ -1350,8 +1350,8 @@ CBC, electrolytes
 Amylase and lipase
 AST/ALT/bilirubin/alkaline
 phosphatase
-U/S—abdomen
-CT—abdomen
+U/S-abdomen
+CT-abdomen
 :P
 56 yo M presents with severe
 midepigastric abdominal pain that
@@ -1372,30 +1372,30 @@ Rectal exam
 CBC, electrolytes, BUN/Cr,
 amylase, lipase, AST/ALT/
 bilirubin/alkaline phosphatase
-U/S—abdomen
-CT—abdomen
+U/S-abdomen
+CT-abdomen
 Upper endoscopy
 ECG
 :P
 41 yo obese F presents with RUQ
 abdominal pain that radiates to the right
 scapula and is associated with nausea,
-vomiting, and a fever of 101.5°F. The
+vomiting, and a fever of 101.5F. The
 pain started after she had eaten fatty
 food. She has had similar but less intense
 episodes that lasted a few hours. Exam
-reveals positive Murphy’s sign.
+reveals positive Murphy's sign.
 Acute cholecystitis
 Hepatitis
 Choledocholithiasis
 Ascending cholangitis
 Peptic ulcer disease
-Fitz-Hugh–Curtis syndrome
+Fitz-Hugh-Curtis syndrome
 Rectal exam
 CBC
 AST/ALT/bilirubin/alkaline
 phosphatase
-U/S—abdomen
+U/S-abdomen
 HIDA scan
 :P
 43 yo obese F presents with RUQ
@@ -1407,13 +1407,13 @@ Acute cholecystitis
 Hepatitis
 Choledocholithiasis
 Sclerosing cholangitis
-Fitz-Hugh–Curtis syndrome
+Fitz-Hugh-Curtis syndrome
 Rectal exam
 CBC
 AST/ALT/bilirubin/alkaline
 phosphatase
 Viral hepatitis serologies
-U/S—abdomen
+U/S-abdomen
 MRCP
 ERCP
 :P
@@ -1432,10 +1432,10 @@ AST/ALT/bilirubin/alkaline
 phosphatase
 UA
 Viral hepatitis serologies
-U/S—abdomen
+U/S-abdomen
 :P
 35 yo M presents with burning epigastric
-pain that starts 2–3 hours after meals.
+pain that starts 2-3 hours after meals.
 The pain is relieved by food and
 antacids.
 Peptic ulcer disease
@@ -1488,12 +1488,12 @@ Splenic infarct
 Rectal exam
 CBC, electrolytes
 CXR
-CT—abdomen
-U/S—abdomen
+CT-abdomen
+U/S-abdomen
 :P
 40 yo M presents with crampy
 abdominal pain, vomiting, abdominal
-distention, and inability to pass ?atus or
+distention, and inability to pass fiatus or
 stool. He has a history of multiple
 abdominal surgeries.
 Intestinal obstruction
@@ -1505,13 +1505,13 @@ Ileus
 Rectal exam
 CBC, electrolytes
 AXR
-CT—abdomen/pelvis
+CT-abdomen/pelvis
 CXR
 70 yo F presents with acute onset of
 severe, crampy abdominal pain. She
 recently vomited and had a massive dark
 bowel movement. She has a history of
-CHF and atrial ?brillation, for which
+CHF and atrial fibrillation, for which
 she has received digitalis. Her pain is out
 of proportion to the exam.
 Mesenteric ischemia/infarction
@@ -1525,7 +1525,7 @@ Rectal exam
 CBC, amylase, lipase, lactate
 ECG, CPK-MB, troponin
 AXR
-CT—abdomen
+CT-abdomen
 Mesenteric angiography
 Barium enema
 21 yo F presents with acute onset of
@@ -1546,17 +1546,17 @@ Rectal exam
 Urine hCG
 UA
 CBC
-Doppler U/S—pelvis
-CT—abdomen
+Doppler U/S-pelvis
+CT-abdomen
 Laparoscopy
 68 yo M presents with lower LLQ
 abdominal pain, fever, and chills for the
 past three days. He also reports recent
 onset of alternating diarrhea and
-constipation. He consumes a low-?ber,
+constipation. He consumes a low-fiber,
 high-fat diet.
 Diverticulitis
-Crohn’s disease
+Crohn's disease
 Ulcerative colitis
 Gastroenteritis
 Abscess
@@ -1564,26 +1564,26 @@ Rectal exam
 CBC, electrolytes
 CXR
 AXR
-CT—abdomen
+CT-abdomen
 20 yo M presents with severe RLQ
 abdominal pain, nausea, and vomiting.
 His discomfort started yesterday as a
 vague pain around the umbilicus. As the
 pain worsened, it became sharp and
-migrated to the RLQ. McBurney’s and
+migrated to the RLQ. McBurney's and
 psoas signs are positive.
 Acute appendicitis
 Gastroenteritis
 Diverticulitis
-Crohn’s disease
+Crohn's disease
 Nephrolithiasis
 Volvulus or other intestinal
 obstruction/perforation
 Rectal exam
 CBC, electrolytes
 AXR
-CT—abdomen
-U/S—abdomen
+CT-abdomen
+U/S-abdomen
 30 yo F presents with periumbilical pain
 for six months. The pain never awakens
 her from sleep. It is relieved by
@@ -1592,7 +1592,7 @@ upset. She has alternating constipation
 and diarrhea but no nausea, vomiting,
 weight loss, or anorexia.
 Irritable bowel syndrome
-Crohn’s disease
+Crohn's disease
 Celiac disease
 Chronic pancreatitis
 GI parasitic infection
@@ -1604,12 +1604,12 @@ Pelvic exam
 Urine hCG
 CBC
 Electrolytes
-CT—abdomen/pelvis
+CT-abdomen/pelvis
 Stool for ova and parasitology,
 Entamoeba histolytica
 antigen
 24 yo F presents with bilateral lower
-abdominal pain that started with the ?rst
+abdominal pain that started with the first
 day of her menstrual period. The pain is
 associated with fever and a thick,
 greenish-yellow vaginal discharge. She
@@ -1628,17 +1628,17 @@ Urine hCG
 Cervical cultures
 CBC/ESR
 UA, urine culture
-U/S—pelvis
+U/S-pelvis
 :S
 CONSTIPATION/DIARRHEA
 :Key History
 Frequency and volume of stools, duration of change in bowel habits, associated symptoms (constitu-
 tional, abdominal pain, bloating, sense of incomplete evacuation, melena or hematochezia); thyroid dis-
-ease symptoms; diet (especially ?ber and ?uid intake); medications (including recent antibiotics); sick
+ease symptoms; diet (especially fiber and fiuid intake); medications (including recent antibiotics); sick
 contacts, travel, camping, HIV risk factors; history of abdominal surgeries, diabetes, pancreatitis; alcohol
 and drug use; family history of colon cancer.
 :Key Physical Exam
-Vital signs; relevant thyroid/endocrine exam; abdominal and rectal exams; ± female pelvic exam.
+Vital signs; relevant thyroid/endocrine exam; abdominal and rectal exams; + female pelvic exam.
 Presentation Differential Workup
 :P
 67 yo M presents with alternating
@@ -1646,14 +1646,14 @@ diarrhea and constipation, decreased
 stool caliber, and blood in the stool for
 the past eight months. He also reports
 unintentional weight loss. He is on a low-
-?ber diet and has a family history of
+fiber diet and has a family history of
 colon cancer.
 Colorectal cancer
 Irritable bowel syndrome
 Diverticulosis
 GI parasitic infection (ascariasis,
 giardiasis)
-In?ammatory bowel disease
+Infiammatory bowel disease
 Angiodysplasia
 Rectal exam
 CBC
@@ -1662,13 +1662,13 @@ phosphatase
 CEA
 Colonoscopy
 Barium enema
-CT—abdomen/pelvis
+CT-abdomen/pelvis
 :P
 28 yo M presents with constipation (very
 hard stool) for the last three weeks. Since
 his mother died two months ago, he and
 his father have eaten only junk food.
-Low-?ber diet
+Low-fiber diet
 Irritable bowel syndrome
 Substance abuse (e.g., heroin)
 Depression
@@ -1684,7 +1684,7 @@ pain that is relieved by defecation. She
 has no nausea, vomiting, weight loss, or
 blood in her stool.
 Irritable bowel syndrome
-In?ammatory bowel disease
+Infiammatory bowel disease
 Celiac disease
 Chronic pancreatitis
 GI parasitic infection (ascariasis,
@@ -1696,7 +1696,7 @@ CBC
 Electrolytes
 Stool for ova and parasitology
 AXR
-CT—abdomen/pelvis
+CT-abdomen/pelvis
 :P
 33 yo M presents with watery diarrhea,
 vomiting, and diffuse abdominal pain
@@ -1704,36 +1704,36 @@ that began yesterday. He also reports
 feeling hot. Several of his coworkers are
 also ill.
 Infectious diarrhea
-(gastroenteritis)—bacterial,
+(gastroenteritis)-bacterial,
 viral, parasitic, protozoal
 Food poisoning
-In?ammatory bowel disease
+Infiammatory bowel disease
 Rectal exam, stool for occult
 blood
 Stool leukocytes and culture
 CBC
 Electrolytes
-CT—abdomen/pelvis
+CT-abdomen/pelvis
 :P
 40 yo F presents with watery diarrhea
 and abdominal cramps. Last week she
 was on antibiotics for a UTI.
 Pseudomembranous
-(Clostridium dif?cile) colitis
+(Clostridium difficile) colitis
 Gastroenteritis
 Cryptosporidiosis
 Food poisoning
-In?ammatory bowel disease
+Infiammatory bowel disease
 Rectal exam
 Stool leukocytes, culture, occult
 blood
-C. dif?cile toxin in stool
+C. difficile toxin in stool
 Electrolytes
 :P
 25 yo M presents with watery diarrhea
 and abdominal cramps. He was recently
 in Mexico.
-Traveler’s diarrhea
+Traveler's diarrhea
 Giardiasis
 Amebiasis
 Food poisoning
@@ -1753,7 +1753,7 @@ Her symptoms are aggravated by milk
 ingestion and are relieved by fasting.
 Lactose intolerance
 Gastroenteritis
-In?ammatory bowel disease
+Infiammatory bowel disease
 Irritable bowel syndrome
 Hyperthyroidism
 Rectal exam
@@ -1765,7 +1765,7 @@ TSH
 diffuse abdominal pain, and weight loss
 over the past three weeks. He has not
 responded to antibiotics.
-Crohn’s disease
+Crohn's disease
 Gastroenteritis
 Ulcerative colitis
 Celiac disease
@@ -1776,7 +1776,7 @@ Rectal exam
 Stool exam and culture
 CBC, electrolytes
 TSH
-CT—abdomen
+CT-abdomen
 Colonoscopy
 Small bowel series
 :S
@@ -1803,7 +1803,7 @@ CBC, electrolytes
 AST/ALT/bilirubin/alkaline
 phosphatase
 Endoscopy (including H. pylori
-testing if ulcer is con?rmed)
+testing if ulcer is confirmed)
 :P
 40 yo F presents with epigastric pain and
 coffee-ground emesis. She has a history
@@ -1827,26 +1827,26 @@ Melena vs. bright blood; amount, duration, associated symptoms (constitutional, 
 pain, tenesmus, constipation/diarrhea); trauma; prior history of similar symptoms; prior colonoscopy;
 medications (especially warfarin); history of easy bleeding or atherosclerotic vascular disease.
 :Key Physical Exam
-Vital signs ± orthostatics; abdominal and rectal exams.
+Vital signs + orthostatics; abdominal and rectal exams.
 :P
 67 yo M presents with blood in his stool,
 weight loss, and constipation. He has a
 family history of colon cancer.
 Colorectal cancer
-Anal ?ssure
+Anal fissure
 Hemorrhoids
 Diverticulosis
 Ischemic bowel disease
 Angiodysplasia
 Upper GI bleeding
-In?ammatory bowel disease
+Infiammatory bowel disease
 Rectal exam
 CBC, PT/PTT
 AST/ALT/bilirubin/alkaline
 phosphatase
 CEA
 Colonoscopy
-CT—abdomen/pelvis
+CT-abdomen/pelvis
 Barium enema
 :P
 33 yo F presents with rectal bleeding and
@@ -1854,9 +1854,9 @@ diarrhea for the past week. She has had
 lower abdominal pain and tenesmus for
 several months.
 Ulcerative colitis
-Crohn’s disease
+Crohn's disease
 Proctitis
-Anal ?ssure
+Anal fissure
 Hemorrhoids
 Diverticulosis
 Dysentery
@@ -1864,14 +1864,14 @@ Rectal exam
 CBC, PT/PTT
 AXR
 Colonoscopy
-CT—abdomen/pelvis
+CT-abdomen/pelvis
 Barium enema
 :P
 58 yo M presents with bright red blood
 per rectum and chronic constipation. He
-consumes a low-?ber diet.
+consumes a low-fiber diet.
 Diverticulosis
-Anal ?ssure
+Anal fissure
 Hemorrhoids
 Angiodysplasia
 Colorectal cancer
@@ -1879,11 +1879,11 @@ Rectal exam
 CBC, PT/PTT
 Electrolytes
 Colonoscopy
-CT—abdomen/pelvis
+CT-abdomen/pelvis
 :S
 HEMATURIA
 :Key History
-Amount, duration,  ± clots, associated symptoms (constitutional, renal colic, dysuria, irritative voiding
+Amount, duration,  + clots, associated symptoms (constitutional, renal colic, dysuria, irritative voiding
 symptoms); medications; history of vigorous exercise, trauma, smoking, stones, cancer, or easy bleeding.
 :Key Physical Exam
 Vital signs; lymph nodes; abdominal exam; genitourinary and rectal exams; extremities.
@@ -1903,8 +1903,8 @@ Genitourinary exam
 UA, urine cytology
 BUN/Cr, PSA, CBC, PT/PTT
 Cystoscopy
-U/S—renal/bladder
-CT—abdomen/pelvis
+U/S-renal/bladder
+CT-abdomen/pelvis
 IVP
 :P
 35 yo M presents with painless
@@ -1920,11 +1920,11 @@ Bladder cancer
 Genitourinary exam
 UA
 BUN/Cr, PSA, CBC, PT/PTT
-U/S—renal
-CT—abdomen/pelvis
+U/S-renal
+CT-abdomen/pelvis
 IVP
 :P
-55 yo M presents with ?ank pain and
+55 yo M presents with fiank pain and
 blood in his urine without dysuria. He
 has experienced weight loss and fever
 over the past two months.
@@ -1937,8 +1937,8 @@ Prostate cancer
 Genitourinary, rectal exam
 UA, urine cytology, BUN/Cr,
 PSA, CBC, PT/PTT
-U/S—renal
-CT—abdomen/pelvis
+U/S-renal
+CT-abdomen/pelvis
 IVP
 :S
 OTHER URINARY SYMPTOMS
@@ -1964,7 +1964,7 @@ Bladder stones
 Rectal exam
 UA
 CBC, BUN/Cr, PSA
-U/S—prostate (transrectal)
+U/S-prostate (transrectal)
 :P
 71 yo M presents with nocturia, urgency,
 weak stream, terminal dribbling,
@@ -1979,8 +1979,8 @@ Bladder stones
 Rectal exam
 UA
 CBC, BUN/Cr, PSA
-U/S—prostate (transrectal)
-CT—pelvis
+U/S-prostate (transrectal)
+CT-pelvis
 IVP
 :P
 18 yo M presents with a burning
@@ -1990,7 +1990,7 @@ sex with a new partner.
 Urethritis 
 Cystitis
 Prostatitis
-Genital ± rectal exam
+Genital + rectal exam
 UA
 Urine culture
 Gram stain and culture of
@@ -2008,12 +2008,12 @@ Lower UTI (cystitis, urethritis)
 UA
 Urine culture and sensitivity
 CBC, BUN/Cr
-U/S—renal
-CT—abdomen
+U/S-renal
+CT-abdomen
 :S
 E RECTILE DYSFUNCTION (ED)
 :Key History
-Duration, severity, ± nocturnal erections, libido, stress or depression, trauma, associated incontinence;
+Duration, severity, + nocturnal erections, libido, stress or depression, trauma, associated incontinence;
 medications (and recent changes); past medical history (hypertension, diabetes, high cholesterol, known
 atherosclerotic vascular disease, prior prostate surgery); smoking, alcohol and drug use.
 :Key Physical Exam
@@ -2029,7 +2029,7 @@ Drug-related ED
 ED caused by hypertension
 ED caused by diabetes mellitus
 Psychogenic ED
-Peyronie’s disease
+Peyronie's disease
 Genital exam
 Rectal exam
 Glucose
@@ -2038,7 +2038,7 @@ CBC
 AMENORRHEA
 :Key History
 Primary vs. secondary, duration, possible pregnancy, associated symptoms (headache, decreased periph-
-eral vision, galactorrhea, hirsutism, virilization, hot ?ushes, vaginal dryness, symptoms of thyroid dis-
+eral vision, galactorrhea, hirsutism, virilization, hot fiushes, vaginal dryness, symptoms of thyroid dis-
 ease); history of anorexia nervosa, excessive dieting, vigorous exercise, pregnancies, D&Cs, uterine infec-
 tions; drug use; medications.
 :Key Physical Exam
@@ -2058,7 +2058,7 @@ UTI
 Thyroid disease
 Pelvic exam
 Urine hCG
-U/S—pelvis
+U/S-pelvis
 CBC, electrolytes
 UA, urine culture
 Prolactin, TSH
@@ -2079,12 +2079,12 @@ Ovarian or adrenal malignancy
 Premature ovarian failure
 Pelvic exam
 Urine hCG
-U/S—pelvis
+U/S-pelvis
 LH/FSH, TSH, prolactin
 Testosterone, DHEAS
 :P
 35 yo F presents with amenorrhea,
-galactorrhea, visual ?eld defects, and
+galactorrhea, visual field defects, and
 headaches for the past six months.
 Amenorrhea secondary to
 prolactinoma
@@ -2096,11 +2096,11 @@ Pelvic and breast exam
 Urine hCG
 Prolactin
 LH/FSH, TSH
-MRI—brain
+MRI-brain
 :P
 48 yo F presents with amenorrhea for the
 past six months accompanied by hot
-?ushes, night sweats, emotional lability,
+fiushes, night sweats, emotional lability,
 and dyspareunia.
 Menopause
 Pregnancy
@@ -2111,25 +2111,25 @@ Urine hCG
 LH/FSH, TSH, prolactin,
 testosterone, DHEAS
 CBC
-MRI—brain
+MRI-brain
 :P
 35 yo F presents with amenorrhea, cold
 intolerance, coarse hair, weight loss, and
 fatigue. She has a history of abruptio
 placentae followed by hypovolemic shock
 and failure of lactation two years ago.
-Sheehan’s syndrome
+Sheehan's syndrome
 Premature ovarian failure
 Pituitary tumor
 Thyroid disease
-Asherman’s syndrome
+Asherman's syndrome
 Pelvic exam
 Urine hCG
 CBC
 LH/FSH, prolactin
 TSH, FT4
 ACTH
-MRI—brain
+MRI-brain
 Hysteroscopy
 :S
 VAGINAL BLEEDING
@@ -2146,7 +2146,7 @@ excessive menstrual bleeding occurring
 irregularly over the past six months.
 Dysfunctional uterine bleeding 
 Coagulation disorders (e.g., von
-Willebrand’s disease,
+Willebrand's disease,
 hemophilia)
 Cervical cancer
 Molar pregnancy 
@@ -2159,7 +2159,7 @@ CBC, ESR, glucose
 PT/PTT
 Prolactin, FSH/LH
 TSH
-U/S—pelvis
+U/S-pelvis
 :P
 18 yo F presents with amenorrhea for the
 past four months. She has lost 95 pounds
@@ -2175,7 +2175,7 @@ LH
 29 yo F presents with amenorrhea for the
 past six months. She has a history of
 occasional palpitation and dizziness. She
-lost her ?ancé in a car accident.
+lost her fiance in a car accident.
 Anxiety-induced amenorrhea CBC
 TSH
 FT4
@@ -2197,7 +2197,7 @@ excessive menstrual bleeding occurring
 irregularly over the past six months.
 Dysfunctional uterine bleeding 
 Coagulation disorders (e.g., von
-Willebrand’s disease,
+Willebrand's disease,
 hemophilia)
 Cervical cancer
 Molar pregnancy 
@@ -2210,7 +2210,7 @@ CBC, ESR, glucose
 PT/PTT
 Prolactin, FSH/LH
 TSH
-U/S—pelvis
+U/S-pelvis
 :P
 61 yo obese F presents with profuse
 vaginal bleeding over the past month.
@@ -2226,7 +2226,7 @@ Atrophic vaginitis
 Pelvic exam
 Pap smear
 Endometrial biopsy
-U/S—pelvis
+U/S-pelvis
 Endometrial curettage
 Colposcopy
 Hysteroscopy
@@ -2251,7 +2251,7 @@ Ectopic pregnancy
 Molar pregnancy
 Pelvic exam
 Urine hCG
-U/S—pelvis
+U/S-pelvis
 CBC, PT/PTT
 Quantitive serum hCG
 :P
@@ -2259,7 +2259,7 @@ Quantitive serum hCG
 left lower abdominal pain that radiates to
 the scapula and back and is associated
 with vaginal bleeding. Her last menstrual
-period was ?ve weeks ago. She has a
+period was five weeks ago. She has a
 history of PID and unprotected
 intercourse.
 Ectopic pregnancy
@@ -2269,7 +2269,7 @@ PID
 Pelvic exam
 Urine hCG
 Cervical cultures
-U/S—pelvis
+U/S-pelvis
 Quantitative serum hCG
 :S
 VAGINAL DISCHARGE
@@ -2283,47 +2283,47 @@ Vital signs; abdominal exam; complete pelvic exam.
 28 yo F presents with a thin, grayish-
 white, foul-smelling vaginal discharge.
 Bacterial vaginosis
-Vaginitis—candidal
-Vaginitis—trichomonal
+Vaginitis-candidal
+Vaginitis-trichomonal
 Cervicitis (chlamydia,
 gonorrhea)
 Pelvic exam
 Wet mount
 Cervical cultures
-KOH prep (“whiff test”)
-pH of vaginal ?uid
+KOH prep ("whiff test")
+pH of vaginal fiuid
 :P
 30 yo F presents with a thick, white,
-cottage cheese–like, odorless vaginal
+cottage cheese-like, odorless vaginal
 discharge and vaginal itching.
-Vaginitis—candidal
+Vaginitis-candidal
 Bacterial vaginosis
-Vaginitis—trichomonal
+Vaginitis-trichomonal
 Pelvic exam
-KOH prep (“whiff test”)
+KOH prep ("whiff test")
 Wet mount
 Cervical cultures
-pH of vaginal ?uid
+pH of vaginal fiuid
 :P
 35 yo F presents with a malodorous,
 profuse, frothy, greenish vaginal
 discharge with intense vaginal itching
 and discomfort.
-Vaginitis—trichomonal
-Vaginitis—candidal
+Vaginitis-trichomonal
+Vaginitis-candidal
 Bacterial vaginosis
 Cervicitis (chlamydia,
 gonorrhea)
 Pelvic exam
 Wet mount
 Cervical cultures
-pH of the vaginal ?uid
-KOH prep (“whiff test”)
+pH of the vaginal fiuid
+KOH prep ("whiff test")
 :S
 DYSPAREUNIA
 :Key History
 Duration, timing, associated symptoms (vaginal discharge, rash, painful menses, GI symptoms, hot
-?ushes), adequacy of lubrication; libido; sexual history; history of sexual trauma or domestic violence;
+fiushes), adequacy of lubrication; libido; sexual history; history of sexual trauma or domestic violence;
 history of endometriosis, PID, or prior abdominal/pelvic surgeries.
 :Key Physical Exam
 Vital signs; abdominal exam; complete pelvic exam.
@@ -2331,7 +2331,7 @@ Presentation Differential Workup
 :P
 54 yo F c/o painful intercourse. Her last
 menstrual period was nine months ago.
-She has hot ?ushes.
+She has hot fiushes.
 Atrophic vaginitis 
 Endometriosis
 Cervicitis
@@ -2340,7 +2340,7 @@ Domestic abuse
 Pelvic exam
 Wet mount, KOH prep, cervical
 cultures
-U/S—pelvis
+U/S-pelvis
 :P
 37 yo F presents with dyspareunia,
 inability to conceive, and dysmenorrhea.
@@ -2354,15 +2354,15 @@ Domestic violence
 Pelvic exam
 Wet mount, KOH prep, cervical
 cultures
-U/S—pelvis
+U/S-pelvis
 Laparoscopy
 :S
 ABUSE
 :Key History
-Establish con?dentiality; directly question about physical, sexual, or emotional abuse and about fear,
-safety, backup plan; history of frequent accidents/injuries, mental illness, drug use; ?rearms in the home.
+Establish confidentiality; directly question about physical, sexual, or emotional abuse and about fear,
+safety, backup plan; history of frequent accidents/injuries, mental illness, drug use; firearms in the home.
 :Key Physical Exam
-Vital signs; complete exam ± pelvic.
+Vital signs; complete exam + pelvic.
 Presentation Differential Workup
 :P
 28 yo F c/o multiple facial and bodily
@@ -2375,8 +2375,8 @@ Osteogenesis imperfecta
 Substance abuse
 Consensual violent sexual
 behavior
-XR—skeletal survey
-CT—maxillofacial
+XR-skeletal survey
+CT-maxillofacial
 Urine toxicology
 CBC
 :P
@@ -2387,7 +2387,7 @@ Rape Pelvic exam
 Urine hCG
 Wet mount, KOH prep, cervical
 cultures
-XR—skeletal survey
+XR-skeletal survey
 CBC
 HIV antibody
 Viral hepatitis serologies
@@ -2410,28 +2410,28 @@ inconsistent story.
 Domestic violence
 Factitious disorder
 Substance abuse
-XR—wrist 
-CT—head
+XR-wrist 
+CT-head
 Urine toxicology
 :P
 30 yo F secretary presents with wrist pain
 and a sensation of numbness and
-burning in her palm and the ?rst,
-second, and third ?ngers of her right
+burning in her palm and the first,
+second, and third fingers of her right
 hand. The pain worsens at night and is
 relieved by loose shaking of the hand.
-There is sensory loss in the same ?ngers.
-Exam reveals positive Tinel’s sign.
+There is sensory loss in the same fingers.
+Exam reveals positive Tinel's sign.
 Carpal tunnel syndrome
 Median nerve compression in
 forearm or arm
 Nerve conduction study
-XR—wrist
-MRI—wrist
+XR-wrist
+MRI-wrist
 :P
 28 yo F presents with pain in the
 interphalangeal joints of her hands
-together with hair loss and a butter?y
+together with hair loss and a butterfiy
 rash on the face.
 Systemic lupus erythematosus
 (SLE)
@@ -2441,7 +2441,7 @@ Parvovirus B19 infection
 ANA, anti-dsDNA, ESR, C3,
 C4, rheumatoid factor (RF),
 CBC
-XR—hands
+XR-hands
 UA
 :P
 28 yo F presents with pain in the
@@ -2454,11 +2454,11 @@ Rheumatoid arthritis
 SLE
 Disseminated gonorrhea
 Arthritis associated with
-in?ammatory bowel disease
+infiammatory bowel disease
 Osteoarthritis
 ANA, anti-dsDNA, ESR, RF,
 CBC
-XR—hands, left knee
+XR-hands, left knee
 Cervical culture
 :P
 18 yo M presents with pain in the
@@ -2470,7 +2470,7 @@ Rheumatoid arthritis
 SLE
 RF, ANA, ESR
 CBC
-XR—hands
+XR-hands
 :P
 65 yo F presents with inability to use her
 left leg and bear weight on it after
@@ -2483,18 +2483,18 @@ there is tenderness in her left groin.
 Hip fracture
 Hip dislocation
 Pelvic fracture
-XR—hip, pelvis
-CT or MRI—hip
+XR-hip, pelvis
+CT or MRI-hip
 CBC
 :P
 40 yo M presents with pain in the right
 groin after a motor vehicle accident. His
-right leg is ?exed at the hip, adducted,
+right leg is fiexed at the hip, adducted,
 and internally rotated.
-Hip dislocation—traumatic
+Hip dislocation-traumatic
 Hip fracture
-XR—hip
-CT or MRI—hip
+XR-hip
+CT or MRI-hip
 CBC
 :P
 56 yo obese F presents with right knee
@@ -2503,19 +2503,19 @@ movement. Her symptoms have
 gradually worsened over the past 10
 years. She noticed swelling and
 deformity of the joint and is having
-dif?culty walking.
+difficulty walking.
 Osteoarthritis
 Pseudogout
 Gout
 Meniscal or ligament damage
-XR—knee
+XR-knee
 CBC
 ESR
 Knee arthrocentesis and
-synovial ?uid analysis (cell
+synovial fiuid analysis (cell
 count, Gram stain, culture,
 crystals)
-MRI—knee
+MRI-knee
 :P
 45 yo M presents with right knee pain
 with swelling and redness.
@@ -2524,13 +2524,13 @@ Gout
 Pseudogout
 Lyme arthritis
 Trauma
-Reiter’s arthritis
+Reiter's arthritis
 CBC
 Knee arthrocentesis and
-synovial ?uid analysis (see
+synovial fiuid analysis (see
 above)
 Blood, urethral cultures
-XR—knee
+XR-knee
 Uric acid
 Lyme antibody
 :P
@@ -2539,36 +2539,36 @@ has been training for a marathon.
 Stress fracture
 Plantar fasciitis
 Foot sprain or strain
-XR—foot
-Bone scan—foot
+XR-foot
+Bone scan-foot
 :P
 65 yo M presents with pain in the heel of
 the right foot that is most notable with
-his ?rst few steps and then improves as
+his first few steps and then improves as
 he continues walking. He has no known
 trauma.
 Plantar fasciitis
 Heel fracture
 Splinter/foreign body
-XR—heel
+XR-heel
 Bone scan
 :P
 55 yo M presents with pain in the elbow
 when he plays tennis. His grip is
 impaired as a result of the pain. There is
 tenderness over the lateral epicondyle as
-well as pain on resisted wrist dorsi?exion
+well as pain on resisted wrist dorsifiexion
 with the elbow in extension.
 Tennis elbow (lateral
 epicondylitis)
 Stress fracture
-XR—arm
+XR-arm
 Bone scan
-MRI—elbow
+MRI-elbow
 :P
 27 yo F presents with painful wrists and
 elbows, a swollen and hot knee joint that
-is painful on ?exion, a rash on her limbs,
+is painful on fiexion, a rash on her limbs,
 and vaginal discharge. She is sexually
 active with multiple partners and
 occasionally uses condoms.
@@ -2576,14 +2576,14 @@ Disseminated gonorrhea
 Rheumatoid arthritis
 SLE
 Psoriatic arthritis
-Reiter’s arthritis
+Reiter's arthritis
 Knee arthrocentesis and
-synovial ?uid analysis (cell
+synovial fiuid analysis (cell
 count, Gram stain, culture)
 ANA, anti-dsDNA, ESR, RF,
 CBC
 Blood, cervical cultures
-XR—knee
+XR-knee
 :P
 60 yo F presents with pain in both legs
 that is induced by walking and is relieved
@@ -2592,15 +2592,15 @@ six months ago and continues to smoke
 heavily.
 Peripheral vascular disease
 (intermittent claudication)
-Leriche’s syndrome (aortoiliac
+Leriche's syndrome (aortoiliac
 occlusive disease)
 Lumbar spinal stenosis
 (pseudoclaudication)
 Osteoarthritis
-Doppler U/S—lower
+Doppler U/S-lower
 Ankle-brachial index
 Angiography
-MRI—lumbar spine
+MRI-lumbar spine
 :P
 45 yo F presents with right calf pain. Her
 calf is tender, warm, red, and swollen
@@ -2608,11 +2608,11 @@ compared to the left side. She was
 started on OCPs two months ago for
 dysfunctional uterine bleeding.
 DVT
-Baker’s cyst rupture
+Baker's cyst rupture
 Myositis
 Cellulitis
-Super?cial venous thrombosis
-Doppler U/S—right leg
+Superficial venous thrombosis
+Doppler U/S-right leg
 CBC
 CPK
 D-dimer
@@ -2625,9 +2625,9 @@ arm.
 Shoulder dislocation
 Fracture of the humerus
 Rotator cuff injury
-XR—shoulder
-XR—arm
-MRI—shoulder
+XR-shoulder
+XR-arm
+MRI-shoulder
 :S
 LOW BACK PAIN
 :Key History
@@ -2635,15 +2635,15 @@ Location, quality, intensity, radiation, context (moving furniture, bending/twis
 turbs sleep), associated symptoms (especially constitutional, incontinence), exacerbating and alleviating
 factors; history of cancer, recurrent UTIs, diabetes, renal stones, IV drug use, smoking.
 :Key Physical Exam
-Vital signs; neurologic exam (especially L4–S1 nerve roots); back palpation and range of motion (al-
+Vital signs; neurologic exam (especially L4-S1 nerve roots); back palpation and range of motion (al-
 though rarely of diagnostic utility); hip exam (can refer pain to the back); consider rectal exam.
 :P
 55 yo M presents with crampy bilateral
 thigh and calf pain, fatigue, and dark
-urine. He is on simvastatin and clo?brate
+urine. He is on simvastatin and clofibrate
 for hyperlipidemia.
 Rhabdomyolysis due to
-simvastatin or clo?brate
+simvastatin or clofibrate
 Polymyositis
 Inclusion body myositis
 Thyroid disease
@@ -2662,20 +2662,20 @@ patient is unable to tiptoe.
 Disk herniation
 Lumbar muscle strain
 Tumor in the vertebral canal
-XR—L-spine
-MRI—L-spine
+XR-L-spine
+MRI-L-spine
 :P
 45 yo F presents with low back pain that
 started after she cleaned her house. The
 pain does not radiate, and there is no
-sensory de?cit or weakness in her legs.
+sensory deficit or weakness in her legs.
 Paraspinal muscle tenderness and spasm
 are also noted.
 Lumbar muscle strain
 Disk herniation
 Abdominal aortic aneurysm
 Vertebral compression fracture
-XR—L-spine
+XR-L-spine
 :P
 45 yo M presents with pain in the lower
 back and legs during prolonged standing
@@ -2686,9 +2686,9 @@ Lumbar spinal stenosis
 Lumbar muscle strain
 Tumor in the vertebral canal
 Peripheral vascular disease
-XR—L-spine
-MRI—L-spine (preferred)
-CT—L-spine
+XR-L-spine
+MRI-L-spine (preferred)
+CT-L-spine
 Ankle-brachial index
 :P
 17 yo M presents with low back pain that
@@ -2704,8 +2704,8 @@ Lumbar muscle strain
 Disk herniation
 Knee or leg fracture 
 Ankylosing spondylitis
-XR—L-spine, knee
-MRI—L-spine
+XR-L-spine, knee
+MRI-L-spine
 :S
 CHILD WITH FEVER 
 (No child will be present; only the mother will be present to tell the story.)
