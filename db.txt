@@ -1,11 +1,11 @@
 :S
 Headache
-::Key History
+:Key History
 Location (especially unilateral vs. bilateral), quality, intensity, duration, timing (does it disturb sleepfi);
 presence of associated neurologic symptoms, nausea, jaw claudication; recent trauma, dental surgery, si-
 nusitis symptoms; exacerbating (stress, fatigue, menses, exercise) and alleviating factors (rest, medicines);
 past history of headache; family history of migraines.
-::Key Physical Exam
+:Key Physical Exam
 Vital signs; inspection and palpation of entire head; ENT inspection; complete neurologic exam, includ-
 ing funduscopic exam.
 :P
@@ -178,13 +178,13 @@ ESR
 MRI-brain
 :S
 Confusion/Memory Loss
-::Key History
+:Key History
 Must include history from family members/caregivers. Detailed time course of cognitive deficits, associ-
 ated symptoms (constitutional, incontinence, ataxia, hypothyroid symptoms, depression); screen for
 delirium (waxing/waning level of alertness); ADL/IADL status, falls, medications (and recent medication
 changes); history of stroke or other atherosclerotic vascular disease, syphilis, HIV risk factors, alcohol use,
 or vitamin B12 deficiency; family history of Alzheimer’s disease.
-::Key Physical Exam
+:Key Physical Exam
 Vital signs; complete neurologic exam, including mini-mental status exam and gait; general physical
 exam, including ENT, heart, lungs, abdomen, and extremities.
 Presentation Differential Workup
@@ -327,11 +327,11 @@ MRI-brain
 LP
 :S
 DIZZINESS
-::Key History
+:Key History
 Lightheadedness vs. vertigo, ± auditory symptoms (hearing loss, tinnitus), duration of episodes, context
 (occurs with positioning, following head trauma), other associated symptoms (visual disturbance, URI,
 nausea); neck pain or injury; medications; history of atherosclerotic vascular disease.
-::Key Physical Exam
+:Key Physical Exam
 Vital signs; complete neurologic exam, including Romberg test, nystagmus, tilt test (e.g., Dix-Hallpike
 maneuver), gait, hearing, and Weber and Rinne tests; head and neck exam; cardiovascular exam.
 Presentation Differential Workup
