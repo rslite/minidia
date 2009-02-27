@@ -1,5 +1,13 @@
 from optparse import OptionParser
-import random, sys
+import ctypes, random, sys
+
+STD_INPUT_HANDLE = -10
+STD_OUTPUT_HANDLE= -11
+STD_ERROR_HANDLE = -12
+stdout = ctypes.windll.kernel32.GetStdHandle(STD_OUTPUT_HANDLE)
+
+def setcol(col):
+	return ctypes.windll.kernel32.SetConsoleTextAttribute(stdout, col)
 
 class Section:
 	def __init__(self, name):
@@ -118,10 +126,14 @@ class Test:
 		print '=================='
 		if with_md:
 			print self.minidiag
+		setcol(4)
 		print "RESP_D"
+		setcol(7)
 		for i,v in enumerate(self.dd):
 			print ' ', (i+1), v
+		setcol(2)
 		print "RESP_W"
+		setcol(7)
 		for i,v in enumerate(self.ww):
 			print ' ', (i+1), v
 		print '------------------'
