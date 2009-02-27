@@ -1,3 +1,4 @@
+from optparse import OptionParser
 import random, sys
 
 class Section:
@@ -13,14 +14,17 @@ class Section:
 		return 'SEC: %s\nKH: %s\nKPE: %s\n%s' % (self.name, self.kh, self.kpe, repr(self.diags))
 
 class MiniDiag:
+	crt = 0
 	def __init__(self):
+		MiniDiag.crt += 1
+		self.id = MiniDiag.crt
 		self.presentation = ''
 		self.dd = []
 		self.ww = []
 	def __repr__(self):
-		return '%s\nDDD:\n%s\nWWW:\n%s' % (self.presentation, repr(self.dd), repr(self.ww))
+		return '%d. %s\nDDD:\n%s\nWWW:\n%s' % (self.id, self.presentation, repr(self.dd), repr(self.ww))
 	def __str__(self):
-		str = self.presentation + '\n\n'
+		str = '%d. %s\n\n' % (self.id, self.presentation)
 		for i,v in enumerate(self.dd):
 			str += '  D %d: %s\n' % (i+1, v)
 		str += '\n'
@@ -40,6 +44,17 @@ class DB:
 		sec = random.choice(self.sections)
 		t = random.choice(sec.diags)
 		return t
+
+	def get_test(self, id):
+		""" Get a test based on its id """
+		for s in self.sections:
+			if s.diags[0].id <= id <= s.diags[-1].id:
+				diag = filter(lambda d: d.id == id, diags)
+				if diag:
+					return diag[0]
+				break
+		#No diag found so throw an exception
+		raise Exception("Diag with id '%d' not found" % id)
 
 	def _read_db(self):
 		f = open('db.txt')
@@ -89,7 +104,7 @@ class Test:
 		self.ww = []
 
 	def administer(self):
-		print self.minidiag.presentation
+		print '%d. %s' % (self.minidiag.id, self.minidiag.presentation)
 		print '-----'
 		for i in xrange(5):
 			res = raw_input('D %d: ' % (i+1))
@@ -100,7 +115,7 @@ class Test:
 			self.ww.append(res)
 
 	def show(self, with_md=True):
-		print '------------------'
+		print '=================='
 		if with_md:
 			print self.minidiag
 		print "RESP_D"
@@ -123,6 +138,14 @@ class Tester:
 	def random_test(self):
 		""" Administer a random test """
 		md = self.db.random_all()
+		self._administer(md)
+	
+	def id_test(self, id):
+		""" Administer a test based on id """
+		md = self.db.get_test(id)
+		self._administer(md)
+
+	def _administer(self, md):
 		tr = Test(md)
 		tr.administer()
 		self.tests.append(tr)
@@ -134,12 +157,19 @@ class Tester:
 			t.show()
 
 def main():
-	if len(sys.argv) > 1:
-		random.seed(int(sys.argv[1]))
+	parser = OptionParser()
+	parser.add_option("-r", "--randomize", dest="rand_seed", type="int", help="seed for randomizer")
+	parser.add_option("-i", "--id", dest="id", help="show a specific question based on its id")
+	(opts, args) = parser.parse_args()
+	if opts.rand_seed:
+		random.seed(int(opts.rand_seed))
 	db = DB()
 	tester = Tester(db)
 	tester.init_session()
-	tester.random_test()
+	if opts.id:
+		tester.id_test(opts.id)
+	else:
+		tester.random_test()
 	tester.results()
 
 if __name__ == '__main__':
