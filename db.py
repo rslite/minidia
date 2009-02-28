@@ -1,13 +1,21 @@
+#!/usr/bin/python
+
 from optparse import OptionParser
 import ctypes, random, sys
 
 STD_INPUT_HANDLE = -10
 STD_OUTPUT_HANDLE= -11
 STD_ERROR_HANDLE = -12
-stdout = ctypes.windll.kernel32.GetStdHandle(STD_OUTPUT_HANDLE)
+try:
+	stdout = ctypes.windll.kernel32.GetStdHandle(STD_OUTPUT_HANDLE)
+except:
+	stdout = None
 
 def setcol(col):
-	return ctypes.windll.kernel32.SetConsoleTextAttribute(stdout, col)
+	if stdout:
+		return ctypes.windll.kernel32.SetConsoleTextAttribute(stdout, col)
+	else:
+		return False
 
 class Section:
 	def __init__(self, name):
