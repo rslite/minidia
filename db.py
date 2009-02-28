@@ -1,10 +1,15 @@
 from optparse import OptionParser
-import ctypes, random, sys
+import ctypes, difflib, random, sys
 
 STD_INPUT_HANDLE = -10
 STD_OUTPUT_HANDLE= -11
 STD_ERROR_HANDLE = -12
 stdout = ctypes.windll.kernel32.GetStdHandle(STD_OUTPUT_HANDLE)
+
+# Colors for good, bad and good but badly ordered responses
+COL_OK, COL_BAD, COL_SEMIOK = 10, 12, 14
+# Match threshold to consider a good response
+GOOD_THRESHOLD = 0.8
 
 def setcol(col):
 	return ctypes.windll.kernel32.SetConsoleTextAttribute(stdout, col)
@@ -57,7 +62,7 @@ class DB:
 		""" Get a test based on its id """
 		for s in self.sections:
 			if s.diags[0].id <= id <= s.diags[-1].id:
-				diag = filter(lambda d: d.id == id, diags)
+				diag = filter(lambda d: d.id == id, s.diags)
 				if diag:
 					return diag[0]
 				break
@@ -123,19 +128,36 @@ class Test:
 			self.ww.append(res)
 
 	def show(self, with_md=True):
+
+		def show_resp(title, known, answered):
+			setcol(9)
+			print "Resp D"
+			setcol(7)
+
+			for i,v in enumerate(answered):
+				col = COL_BAD
+				sm = difflib.SequenceMatcher(None, v.lower(), '')
+				ratios = []
+				for j,d in enumerate(known):
+					sm.set_seq2(d.lower())
+					r = sm.ratio()
+					ratios.append('%.2f' % r)
+					if r >= GOOD_THRESHOLD:
+						col = COL_OK if i==j else COL_SEMIOK
+				print ' ', (i+1),
+				setcol(col)
+				print v,
+				setcol(7)
+				print '    ', ' '.join(ratios)
+
+
 		print '=================='
 		if with_md:
 			print self.minidiag
-		setcol(4)
-		print "RESP_D"
-		setcol(7)
-		for i,v in enumerate(self.dd):
-			print ' ', (i+1), v
-		setcol(2)
-		print "RESP_W"
-		setcol(7)
-		for i,v in enumerate(self.ww):
-			print ' ', (i+1), v
+		
+		show_resp("Resp D", self.minidiag.dd, self.dd)
+		show_resp("Resp W", self.minidiag.ww, self.ww)
+
 		print '------------------'
 
 class Tester:
@@ -171,7 +193,7 @@ class Tester:
 def main():
 	parser = OptionParser()
 	parser.add_option("-r", "--randomize", dest="rand_seed", type="int", help="seed for randomizer")
-	parser.add_option("-i", "--id", dest="id", help="show a specific question based on its id")
+	parser.add_option("-i", "--id", dest="id", type="int", help="show a specific question based on its id")
 	(opts, args) = parser.parse_args()
 	if opts.rand_seed:
 		random.seed(int(opts.rand_seed))
