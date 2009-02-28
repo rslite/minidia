@@ -139,7 +139,7 @@ class Test:
 
 		def show_resp(title, known, answered):
 			setcol(9)
-			print "Resp D"
+			print title
 			setcol(7)
 
 			for i,v in enumerate(answered):
