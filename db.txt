@@ -670,9 +670,7 @@ Anemia
 :W
 CBC
 TSH
-HIV/STD testing (given
-husband's possible risk
-factors)
+HIV/STD testing (given husband's possible risk factors)
 :P
 44 yo M presents with fatigue, insomnia,
 and nightmares about a murder that he
