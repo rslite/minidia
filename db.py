@@ -151,9 +151,7 @@ class Test:
 	def show(self, with_md=True):
 
 		def show_resp(title, known, answered):
-			setcol(9)
-			print title
-			setcol(7)
+			hilite(title, 9)
 
 			for i,v in enumerate(answered):
 				col = COL_BAD
@@ -168,10 +166,9 @@ class Test:
 						max_ratio = r
 						col = COL_OK if i==j else COL_SEMIOK
 				print ' ', (i+1),
-				setcol(col)
-				print v,
-				setcol(7)
-				print '    ', ' '.join(ratios)
+				hilite(v, col)
+				if opts.verbose:
+					print '    ', ' '.join(ratios)
 
 
 		print '=================='
@@ -189,12 +186,17 @@ class Tester:
 
 	def init_session(self):
 		""" Init a testing session """
-		print "*** New session ***"
+		hilite('*** New session ***')
 		self.tests = []
+		self.seen_ids = []
 
 	def random_test(self):
 		""" Administer a random test """
-		md = self.db.random_all()
+		while True:
+			md = self.db.random_all()
+			if not md.id in self.seen_ids:
+				break
+		self.seen_ids.append(md.id)
 		self._administer(md)
 	
 	def id_test(self, id):
@@ -209,16 +211,19 @@ class Tester:
 
 	def results(self):
 		""" Print the results of the test """
-		print "*** Test results ***"
-		for t in self.tests:
+		hilite('*** Test results ***')
+		for i,t in enumerate(self.tests):
+			hilite('* Result %d of %d *' % (i+1, len(self.tests)))
 			t.show()
 
 def main():
 	parser = OptionParser()
 	parser.add_option("-r", "--randomize", dest="rand_seed", type="int", help="seed for randomizer")
 	parser.add_option("-c", "--crt", dest="id", type="int", help="show a specific question based on its current number")
+	parser.add_option("-n", "--number", dest="number", type="int", default=1, help="number of tests to administer (default 1)")
 	parser.add_option("-i", "--info", dest="show_info", action='store_true', default=False, help="show DB info and exit")
 	parser.add_option("-v", "--verbose", dest="verbose", action='store_true', default=False, help="increase output verbosity")
+	global opts
 	(opts, args) = parser.parse_args()
 	if opts.rand_seed:
 		random.seed(int(opts.rand_seed))
@@ -241,7 +246,9 @@ def main():
 	if opts.id:
 		tester.id_test(opts.id)
 	else:
-		tester.random_test()
+		for n in xrange(opts.number):
+			hilite('* Test %d of %d *' % (n+1, opts.number))
+			tester.random_test()
 	tester.results()
 
 if __name__ == '__main__':
