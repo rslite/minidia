@@ -22,6 +22,12 @@ def setcol(col):
 	else:
 		return False
 
+def hilite(txt, col=15):
+	""" Highlight a text with the provided color then go back to the normal one """
+	setcol(col)
+	print txt
+	setcol(7)
+
 class Section:
 	def __init__(self, name):
 		self.name = name
@@ -208,11 +214,26 @@ class Tester:
 def main():
 	parser = OptionParser()
 	parser.add_option("-r", "--randomize", dest="rand_seed", type="int", help="seed for randomizer")
-	parser.add_option("-i", "--id", dest="id", type="int", help="show a specific question based on its id")
+	parser.add_option("-c", "--crt", dest="id", type="int", help="show a specific question based on its current number")
+	parser.add_option("-i", "--info", dest="show_info", action='store_true', default=False, help="show DB info and exit")
+	parser.add_option("-v", "--verbose", dest="verbose", action='store_true', default=False, help="increase output verbosity")
 	(opts, args) = parser.parse_args()
 	if opts.rand_seed:
 		random.seed(int(opts.rand_seed))
+	
 	db = DB()
+
+	# If needed show DB info and exit
+	if opts.show_info:
+		for s in db.sections:
+			hilite('%3d - %3d: %s' % (s.diags[0].id, s.diags[-1].id, s.name))
+			if opts.verbose:
+				print s.kh
+				hilite('-------')
+				print s.kpe
+				hilite('-------')
+		return
+
 	tester = Tester(db)
 	tester.init_session()
 	if opts.id:

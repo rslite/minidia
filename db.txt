@@ -187,7 +187,6 @@ or vitamin B12 deficiency; family history of Alzheimer's disease.
 :Key Physical Exam
 Vital signs; complete neurologic exam, including mini-mental status exam and gait; general physical
 exam, including ENT, heart, lungs, abdomen, and extremities.
-Presentation Differential Workup
 :P
 81 yo M presents with progressive
 confusion over the past several years
@@ -334,7 +333,6 @@ nausea); neck pain or injury; medications; history of atherosclerotic vascular d
 :Key Physical Exam
 Vital signs; complete neurologic exam, including Romberg test, nystagmus, tilt test (e.g., Dix-Hallpike
 maneuver), gait, hearing, and Weber and Rinne tests; head and neck exam; cardiovascular exam.
-Presentation Differential Workup
 :P
 35 yo F presents with intermittent
 episodes of vertigo, tinnitus, nausea, and
@@ -438,7 +436,6 @@ sociated tongue biting, incontinence, tonic-clonic movements, prolonged confusio
 monary embolism risk factors; history of heart disease or arrhythmia; alcohol and drug use.
 :Key Physical Exam
 Vital signs, including orthostatics; complete neurologic exam; carotid and cardiac exam; lung exam.
-Presentation Differential Workup
 :P
 26 yo M presents after falling and losing
 consciousness at work. He had rhythmic
@@ -509,7 +506,6 @@ neck or back pain); constitutional symptoms, other neurologic symptoms; history 
 atherosclerotic vascular disease.
 :Key Physical Exam
 Vital signs; neurologic and musculoskeletal exams; relevant vascular exam.
-Presentation Differential Workup
 :P
 68 yo M presents following a 20-minute
 episode of slurred speech, right facial
@@ -656,7 +652,6 @@ thyroid disease; history of bleeding or anemia; medications; alcohol and drug us
 :Key Physical Exam
 Vital signs; head and neck exam (conjunctival pallor, oropharynx/palate, lymphadenopathy, thyroid
 exam); heart, lung, abdominal, and neurologic exams; consider rectal exam and occult blood testing.
-Presentation Differential Workup
 :P
 40 yo F c/o feeling tired, hopeless, and
 worthless and of having suicidal
@@ -768,7 +763,6 @@ contacts, HIV risk factors.
 :Key Physical Exam
 Vital signs; ENT exam, including oral thrush, tonsillar exudate, and lymphadenopathy; lung, abdominal,
 and skin exams.
-Presentation Differential Workup
 :P
 26 yo F presents with sore throat, fever,
 severe fatigue, and loss of appetite for the
@@ -787,8 +781,7 @@ Secondary syphilis
 CBC, peripheral smear
 Monospot test
 Throat culture
-AST/ALT/bilirubin/alkaline
-phosphatase
+AST/ALT/bilirubin/alkaline phosphatase
 HIV antibody and viral load
 Anti-EBV antibodies
 VDRL/RPR
@@ -812,8 +805,7 @@ CD4 count
 Monospot test
 Throat culture
 VDRL/RPR
-AST/ALT/bilirubin/alkaline
-phosphatase
+AST/ALT/bilirubin/alkaline phosphatase
 :P
 26 yo F presents with fever and sore
 throat.
@@ -836,7 +828,6 @@ smoking history; history of lung disease; allergies; medicines (especially ACE i
 :Key Physical Exam
 Vital signs + pulse oximetry; exam of nasal mucosa, oropharynx, heart, lungs, lymph nodes, and extremi-
 ties (clubbing, cyanosis, edema).
-Presentation Differential Workup
 :P
 30 yo M presents with shortness of
 breath, cough, and wheezing that worsen
@@ -1023,7 +1014,6 @@ bilization).
 :Key Physical Exam
 Vital signs + BP in both arms; complete cardiovascular exam (JVD, PMI, chest wall tenderness, heart
 sounds, pulses, edema); lung and abdominal exams.
-Presentation Differential Workup
 :P
 60 yo M presents with sudden onset of
 substernal heavy chest pain that has
@@ -1189,7 +1179,6 @@ ness, chest pain, dyspnea); hyperthyroid symptoms; history of bleeding or anemia
 :Key Physical Exam
 Vital signs; endocrine/thyroid exam, including exophthalmos, lid retraction, lid lag, gland size, bruit, and
 tremor; complete cardiovascular exam.
-Presentation Differential Workup
 :P
 70 yo diabetic M presents with episodes
 of palpitations and diaphoresis. He is on
@@ -1226,7 +1215,6 @@ symptoms; palpitation, tremor, diarrhea, family history of thyroid disease; HIV 
 drug use; medications; history of cancer.
 :Key Physical Exam
 Vital signs; complete physical.
-Presentation Differential Workup
 :P
 42 yo F presents with a 7-kg weight loss
 over the past two months. She has a fine
@@ -1252,7 +1240,6 @@ ical history; alcohol and drug use.
 :Key Physical Exam
 Vital signs; complete exam, including signs of Cushing's syndrome (hypertension, central obesity, moon
 face, buffalo hump, supraclavicular fat pads, purple abdominal striae).
-Presentation Differential Workup
 :P
 44 yo F presents with a weight gain of 
 > 11 kg over the past two months. She
@@ -1282,7 +1269,6 @@ Raynaud's phenomenon.
 :Key Physical Exam
 Vital signs; head and neck exam; heart, lung, and abdominal exams; skin exam (for signs of sclero-
 derma/CREST).
-Presentation Differential Workup
 :P
 75 yo M presents with dysphagia that
 started with solids and progressed to
@@ -1374,7 +1360,6 @@ ease; medications; alcohol and drug use; domestic violence.
 :Key Physical Exam
 Vital signs; heart and lung exams; abdominal exam, including guarding, rebound, Murphy's sign, and
 CVA palpation; rectal exam; pelvic exam (women).
-Presentation Differential Workup
 :P
 20 yo F presents with nausea, vomiting
 (especially in the morning), fatigue, and
@@ -1434,8 +1419,7 @@ Peptic ulcer disease
 Rectal exam
 CBC, electrolytes
 Amylase and lipase
-AST/ALT/bilirubin/alkaline
-phosphatase
+AST/ALT/bilirubin/alkaline phosphatase
 U/S-abdomen
 CT-abdomen
 :P
@@ -1457,9 +1441,7 @@ Alcoholic hepatitis
 Mallory-Weiss tear
 :W
 Rectal exam
-CBC, electrolytes, BUN/Cr,
-amylase, lipase, AST/ALT/
-bilirubin/alkaline phosphatase
+CBC, electrolytes, BUN/Cr, amylase, lipase, AST/ALT/bilirubin/alkaline phosphatase
 U/S-abdomen
 CT-abdomen
 Upper endoscopy
@@ -1483,8 +1465,7 @@ Fitz-Hugh-Curtis syndrome
 :W
 Rectal exam
 CBC
-AST/ALT/bilirubin/alkaline
-phosphatase
+AST/ALT/bilirubin/alkaline phosphatase
 U/S-abdomen
 HIDA scan
 :P
@@ -1502,8 +1483,7 @@ Fitz-Hugh-Curtis syndrome
 :W
 Rectal exam
 CBC
-AST/ALT/bilirubin/alkaline
-phosphatase
+AST/ALT/bilirubin/alkaline phosphatase
 Viral hepatitis serologies
 U/S-abdomen
 MRCP
@@ -1522,8 +1502,7 @@ Acute glomerulonephritis
 :W
 Rectal exam
 CBC, amylase, lipase
-AST/ALT/bilirubin/alkaline
-phosphatase
+AST/ALT/bilirubin/alkaline phosphatase
 UA
 Viral hepatitis serologies
 U/S-abdomen
@@ -1542,8 +1521,7 @@ Mesenteric ischemia
 :W
 Rectal exam
 Amylase, lipase, lactate
-AST/ALT/bilirubin/alkaline
-phosphatase
+AST/ALT/bilirubin/alkaline phosphatase
 Endoscopy (including H. pylori
 testing)
 Upper GI series
@@ -1566,8 +1544,7 @@ Mesenteric ischemia
 Rectal exam
 CBC, electrolytes, amylase,
 lipase, lactate
-AST/ALT/bilirubin/alkaline
-phosphatase
+AST/ALT/bilirubin/alkaline phosphatase
 AXR
 Upright CXR
 Endoscopy (including H. pylori
@@ -1756,7 +1733,6 @@ contacts, travel, camping, HIV risk factors; history of abdominal surgeries, dia
 and drug use; family history of colon cancer.
 :Key Physical Exam
 Vital signs; relevant thyroid/endocrine exam; abdominal and rectal exams; + female pelvic exam.
-Presentation Differential Workup
 :P
 67 yo M presents with alternating
 diarrhea and constipation, decreased
@@ -1776,8 +1752,7 @@ Angiodysplasia
 :W
 Rectal exam
 CBC
-AST/ALT/bilirubin/alkaline
-phosphatase
+AST/ALT/bilirubin/alkaline phosphatase
 CEA
 Colonoscopy
 Barium enema
@@ -1913,7 +1888,6 @@ Amount, duration, context (after severe vomiting, alcohol ingestion, nosebleed),
 of peptic ulcer disease, liver disease, abdominal aortic aneurysm repair, easy bleeding.
 :Key Physical Exam
 Vital signs, including orthostatics; ENT, heart, lung, abdominal, and rectal exams.
-Presentation Differential Workup
 :P
 45 yo F presents with coffee-ground
 emesis for the last three days. Her stool is
@@ -1928,8 +1902,7 @@ Esophageal varices
 :W
 Rectal exam
 CBC, electrolytes
-AST/ALT/bilirubin/alkaline
-phosphatase
+AST/ALT/bilirubin/alkaline phosphatase
 Endoscopy (including H. pylori
 testing if ulcer is confirmed)
 :P
@@ -1946,8 +1919,7 @@ Mallory-Weiss tear
 :W
 Rectal exam
 CBC, electrolytes
-AST/ALT/bilirubin/alkaline
-phosphatase
+AST/ALT/bilirubin/alkaline phosphatase
 Barium swallow
 Endoscopy
 :S
@@ -2164,7 +2136,6 @@ medications (and recent changes); past medical history (hypertension, diabetes, 
 atherosclerotic vascular disease, prior prostate surgery); smoking, alcohol and drug use.
 :Key Physical Exam
 Vital signs; cardiovascular exam; genital and rectal exams.
-Presentation Differential Workup
 :P
 47 yo M presents with impotence that
 started three months ago. He has
@@ -2191,7 +2162,6 @@ ease); history of anorexia nervosa, excessive dieting, vigorous exercise, pregna
 tions; drug use; medications.
 :Key Physical Exam
 Vital signs; breast exam; complete pelvic exam.
-Presentation Differential Workup
 :P
 40 yo F presents with amenorrhea,
 morning nausea and vomiting, fatigue,
@@ -2296,7 +2266,6 @@ ciated discharge, pelvic or abdominal pain, or urinary symptoms; trauma; medicat
 farin, contraceptives); history of easy bleeding or bruising; history of abnormal Pap smears.
 :Key Physical Exam
 Vital signs; abdominal exam; complete pelvic exam.
-Presentation Differential Workup
 :P
 17 yo F presents with prolonged,
 excessive menstrual bleeding occurring
@@ -2344,35 +2313,6 @@ FT4
 ACTH
 Urine cortisol level
 Progesterone challenge test
-:S
-VAGINAL BLEEDING
-:Key History
-Pre- vs. postmenopausal, duration, amount; menstrual history and relation to last menstrual period; asso-
-ciated discharge, pelvic or abdominal pain, or urinary symptoms; trauma; medications (especially war-
-farin, contraceptives); history of easy bleeding or bruising; history of abnormal Pap smears.
-:Key Physical Exam
-Vital signs; abdominal exam; complete pelvic exam.
-Presentation Differential Workup
-:P
-17 yo F presents with prolonged,
-excessive menstrual bleeding occurring
-irregularly over the past six months.
-:D
-Dysfunctional uterine bleeding 
-Coagulation disorders (e.g., von Willebrand's disease, hemophilia)
-Cervical cancer
-Molar pregnancy 
-Hypothyroidism
-Diabetes mellitus
-:W
-Pelvic exam
-Urine hCG
-Cervical cultures, Pap smear
-CBC, ESR, glucose
-PT/PTT
-Prolactin, FSH/LH
-TSH
-U/S-pelvis
 :P
 61 yo obese F presents with profuse
 vaginal bleeding over the past month.
@@ -2500,7 +2440,6 @@ fiushes), adequacy of lubrication; libido; sexual history; history of sexual tra
 history of endometriosis, PID, or prior abdominal/pelvic surgeries.
 :Key Physical Exam
 Vital signs; abdominal exam; complete pelvic exam.
-Presentation Differential Workup
 :P
 54 yo F c/o painful intercourse. Her last
 menstrual period was nine months ago.
@@ -2540,7 +2479,6 @@ Establish confidentiality; directly question about physical, sexual, or emotiona
 safety, backup plan; history of frequent accidents/injuries, mental illness, drug use; firearms in the home.
 :Key Physical Exam
 Vital signs; complete exam + pelvic.
-Presentation Differential Workup
 :P
 28 yo F c/o multiple facial and bodily
 injuries. She claims that she fell on the
@@ -2581,7 +2519,6 @@ focal numbness/weakness), exacerbating and alleviating factors; trauma (includin
 medications; DVT risk factors; alcohol and drug use; family history of rheumatic disease.
 :Key Physical Exam
 Vital signs; HEENT and musculoskeletal exams; relevant neurovascular exam.
-Presentation Differential Workup
 :P
 30 yo F presents with wrist pain and a
 black eye after tripping, falling, and
@@ -2854,7 +2791,6 @@ Aldolase
 UA
 Urine myoglobin
 TSH
-Presentation Differential Workup
 :P
 45 yo F presents with low back pain that
 radiates to the lateral aspect of her left
@@ -2923,7 +2859,6 @@ Severity, duration, associated localizing symptoms, appetite, rash, sick contact
 past history.
 :Key Physical Exam
 Vital signs; HEENT, neck, heart, lung, abdominal, and skin exams.
-Presentation Differential Workup
 :P
 20-day-old M presents with fever,
 decreased breast-feeding, and lethargy.
