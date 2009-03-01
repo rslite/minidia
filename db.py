@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 from optparse import OptionParser
-import ctypes, difflib, random, sys
+import ctypes, difflib, random, re, sys
 
 STD_INPUT_HANDLE = -10
 STD_OUTPUT_HANDLE= -11
@@ -119,6 +119,9 @@ class DB:
 		f.close()
 
 class Test:
+	#Cleaner expression to remove parenthesis
+	rg_cleaner = re.compile('\s*\(.*?\)\s*')
+
 	def __init__(self, md):
 		self.minidiag = md
 		self.dd = []
@@ -151,7 +154,7 @@ class Test:
 				sm = difflib.SequenceMatcher(None, v.lower(), '')
 				ratios = []
 				for j,d in enumerate(known):
-					sm.set_seq2(d.lower())
+					sm.set_seq2(Test.rg_cleaner.sub('', d.lower()))
 					r = sm.ratio()
 					ratios.append('%.2f' % r)
 					if r >= GOOD_THRESHOLD:
