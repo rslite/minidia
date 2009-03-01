@@ -127,12 +127,16 @@ class Test:
 	def administer(self):
 		print '%d. %s' % (self.minidiag.id, self.minidiag.presentation)
 		print '-----'
-		for i in xrange(5):
+		for i in xrange(20):
 			res = raw_input('D %d: ' % (i+1))
+			if not res:
+				break
 			self.dd.append(res)
 		print '-----'
-		for i in xrange(5):
+		for i in xrange(20):
 			res = raw_input('W %d: ' % (i+1))
+			if not res:
+				break
 			self.ww.append(res)
 
 	def show(self, with_md=True):
