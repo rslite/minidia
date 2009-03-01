@@ -159,11 +159,13 @@ class Test:
 				col = COL_BAD
 				sm = difflib.SequenceMatcher(None, v.lower(), '')
 				ratios = []
+				max_ratio = 0
 				for j,d in enumerate(known):
 					sm.set_seq2(Test.rg_cleaner.sub('', d.lower()))
 					r = sm.ratio()
 					ratios.append('%.2f' % r)
-					if r >= GOOD_THRESHOLD:
+					if r >= GOOD_THRESHOLD and r > max_ratio:
+						max_ratio = r
 						col = COL_OK if i==j else COL_SEMIOK
 				print ' ', (i+1),
 				setcol(col)
