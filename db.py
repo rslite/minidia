@@ -22,15 +22,17 @@ def setcol(col):
 	else:
 		return False
 
-def hilite(txt, col=15):
+def hilite(txt, col=15, nl=True):
 	""" Highlight a text with the provided color then go back to the normal one """
 	global opts
 	if opts.nocolor:
-		print txt
+		print txt,
+		if nl: print
 		return
 	# Set color, print text and go back to default color
 	setcol(col)
-	print txt
+	print txt,
+	if nl: print
 	setcol(7)
 
 class Section:
@@ -154,12 +156,26 @@ class Test:
 			self.ww.append(res)
 
 	def show(self, with_md=True):
+		"""
+		Show the results of a test.
+		with_md - if True show initial minidiag 
+		Returns the calculated points for this md
+		"""
 
 		def show_resp(title, known, answered):
+			"""
+			Show a set of results for D or W 
+			Returns the calculated points for this set
+			The points are calculated like this:
+			0.00 - bad
+			0.75 - good, but in bad position
+			1.00 - all good
+			"""
 			hilite(title, 9)
 
+			total = 0.0
 			for i,v in enumerate(answered):
-				col = COL_BAD
+				col, points = COL_BAD, 0.0
 				sm = difflib.SequenceMatcher(None, v.lower(), '')
 				ratios = []
 				max_ratio = 0
@@ -169,21 +185,29 @@ class Test:
 					ratios.append('%.2f' % r)
 					if r >= GOOD_THRESHOLD and r > max_ratio:
 						max_ratio = r
-						col = COL_OK if i==j else COL_SEMIOK
+						col, points = (COL_OK, 1.0) if i==j else (COL_SEMIOK, 0.75)
 				print ' ', (i+1),
+				chr = '-..+*'[int(points*4)]
+				hilite(chr, 11, nl=False)
 				hilite(v, col)
 				if opts.verbose:
 					print '    ', ' '.join(ratios)
+				# Update the total points
+				total += points/len(known)
+			print 'Total: %.2f' % total
+			return total
 
 
 		print '=================='
 		if with_md:
 			print self.minidiag
 		
-		show_resp("Resp D", self.minidiag.dd, self.dd)
-		show_resp("Resp W", self.minidiag.ww, self.ww)
-
-		print '------------------'
+		p1 = show_resp("Resp D", self.minidiag.dd, self.dd)
+		p2 = show_resp("Resp W", self.minidiag.ww, self.ww)
+		#Calculate points as mean between the two sets of answers
+		p = (p1+p2)/2
+		print '-- %.2f ----------------' % p
+		return p
 
 class Tester:
 	def __init__(self, db):
@@ -191,6 +215,8 @@ class Tester:
 
 	def init_session(self):
 		""" Init a testing session """
+		# Clear the screen (no peeking :))
+		print '\n' * 30
 		hilite('*** New session ***')
 		self.tests = []
 		self.seen_ids = []
