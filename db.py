@@ -24,6 +24,11 @@ def setcol(col):
 
 def hilite(txt, col=15):
 	""" Highlight a text with the provided color then go back to the normal one """
+	global opts
+	if opts.nocolor:
+		print txt
+		return
+	# Set color, print text and go back to default color
 	setcol(col)
 	print txt
 	setcol(7)
@@ -223,6 +228,7 @@ def main():
 	parser.add_option("-n", "--number", dest="number", type="int", default=1, help="number of tests to administer (default 1)")
 	parser.add_option("-i", "--info", dest="show_info", action='store_true', default=False, help="show DB info and exit")
 	parser.add_option("-v", "--verbose", dest="verbose", action='store_true', default=False, help="increase output verbosity")
+	parser.add_option("", "--nocolor", dest="nocolor", action='store_true', default=False, help="don't use console coloring")
 	global opts
 	(opts, args) = parser.parse_args()
 	if opts.rand_seed:
