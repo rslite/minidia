@@ -1542,13 +1542,11 @@ Choledocholithiasis
 Mesenteric ischemia
 :W
 Rectal exam
-CBC, electrolytes, amylase,
-lipase, lactate
+CBC, electrolytes, amylase, lipase, lactate
 AST/ALT/bilirubin/alkaline phosphatase
 AXR
 Upright CXR
-Endoscopy (including H. pylori
-testing)
+Endoscopy (including H. pylori testing)
 :P
 18 yo M boxer presents with severe LUQ
 abdominal pain that radiates to the left
