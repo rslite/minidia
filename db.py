@@ -206,7 +206,7 @@ class Test:
 		p2 = show_resp("Resp W", self.minidiag.ww, self.ww)
 		#Calculate points as mean between the two sets of answers
 		p = (p1+p2)/2
-		print '-- %.2f ----------------' % p
+		print '-- %.2f -- %s' % (p, '*' * int(p*20))
 		return p
 
 class Tester:

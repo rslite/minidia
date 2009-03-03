@@ -1,7 +1,7 @@
 :S
 Headache
 :Key History
-Location (especially unilateral vs. bilateral), quality, intensity, duration, timing (does it disturb sleepfi);
+Location (especially unilateral vs. bilateral), quality, intensity, duration, timing (does it disturb sleep?);
 presence of associated neurologic symptoms, nausea, jaw claudication; recent trauma, dental surgery, si-
 nusitis symptoms; exacerbating (stress, fatigue, menses, exercise) and alleviating factors (rest, medicines);
 past history of headache; family history of migraines.
@@ -12,7 +12,7 @@ ing funduscopic exam.
 21 yo F presents with several episodes of
 throbbing left temporal pain that lasts for
 2-3 hours. Prior to its onset, she sees
-fiashes of light in her right visual field
+flashes of light in her right visual field
 and feels weakness and numbness on the
 right side of her body for a few minutes.
 Headaches are often associated with
@@ -574,7 +574,7 @@ started this morning. She is also
 experiencing right eye pain, decreased
 vision, and double vision. She reports
 feeling "electric shocks" down her spine
-upon fiexing her head.
+upon flexing her head.
 :D
 Multiple sclerosis 
 Stroke
@@ -842,7 +842,7 @@ Foreign body
 :W
 CBC
 CXR
-Peak fiow measurement
+Peak flow measurement
 PFTs
 Methacholine challenge test
 :P
@@ -1385,7 +1385,7 @@ UA, urine culture
 Baseline Pap smear, cervical cultures, rubella antibodies, HIV antibody, hepatitis B surface antigen, and RPR/VDRL
 :P
 45 yo M presents with sudden onset of
-colicky right-sided fiank pain that
+colicky right-sided flank pain that
 radiates to the testicles, accompanied by
 nausea, vomiting, hematuria, and CVA
 tenderness.
@@ -1567,7 +1567,7 @@ U/S-abdomen
 :P
 40 yo M presents with crampy
 abdominal pain, vomiting, abdominal
-distention, and inability to pass fiatus or
+distention, and inability to pass flatus or
 stool. He has a history of multiple
 abdominal surgeries.
 :D
@@ -1725,7 +1725,7 @@ CONSTIPATION/DIARRHEA
 :Key History
 Frequency and volume of stools, duration of change in bowel habits, associated symptoms (constitu-
 tional, abdominal pain, bloating, sense of incomplete evacuation, melena or hematochezia); thyroid dis-
-ease symptoms; diet (especially fiber and fiuid intake); medications (including recent antibiotics); sick
+ease symptoms; diet (especially fiber and fluid intake); medications (including recent antibiotics); sick
 contacts, travel, camping, HIV risk factors; history of abdominal surgeries, diabetes, pancreatitis; alcohol
 and drug use; family history of colon cancer.
 :Key Physical Exam
@@ -1744,7 +1744,7 @@ Irritable bowel syndrome
 Diverticulosis
 GI parasitic infection (ascariasis,
 giardiasis)
-Infiammatory bowel disease
+Inflammatory bowel disease
 Angiodysplasia
 :W
 Rectal exam
@@ -1778,7 +1778,7 @@ has no nausea, vomiting, weight loss, or
 blood in her stool.
 :D
 Irritable bowel syndrome
-Infiammatory bowel disease
+Inflammatory bowel disease
 Celiac disease
 Chronic pancreatitis
 GI parasitic infection (ascariasis,
@@ -1800,7 +1800,7 @@ also ill.
 :D
 Infectious diarrhea (gastroenteritis)-bacterial, viral, parasitic, protozoal
 Food poisoning
-Infiammatory bowel disease
+Inflammatory bowel disease
 :W
 Rectal exam, stool for occult blood
 Stool leukocytes and culture
@@ -1848,7 +1848,7 @@ ingestion and are relieved by fasting.
 :D
 Lactose intolerance
 Gastroenteritis
-Infiammatory bowel disease
+Inflammatory bowel disease
 Irritable bowel syndrome
 Hyperthyroidism
 :W
@@ -2029,7 +2029,7 @@ U/S-renal
 CT-abdomen/pelvis
 IVP
 :P
-55 yo M presents with fiank pain and
+55 yo M presents with flank pain and
 blood in his urine without dysuria. He
 has experienced weight loss and fever
 over the past two months.
@@ -2153,7 +2153,7 @@ CBC
 AMENORRHEA
 :Key History
 Primary vs. secondary, duration, possible pregnancy, associated symptoms (headache, decreased periph-
-eral vision, galactorrhea, hirsutism, virilization, hot fiushes, vaginal dryness, symptoms of thyroid dis-
+eral vision, galactorrhea, hirsutism, virilization, hot flushes, vaginal dryness, symptoms of thyroid dis-
 ease); history of anorexia nervosa, excessive dieting, vigorous exercise, pregnancies, D&Cs, uterine infec-
 tions; drug use; medications.
 :Key Physical Exam
@@ -2219,7 +2219,7 @@ MRI-brain
 :P
 48 yo F presents with amenorrhea for the
 past six months accompanied by hot
-fiushes, night sweats, emotional lability,
+flushes, night sweats, emotional lability,
 and dyspareunia.
 :D
 Menopause
@@ -2397,7 +2397,7 @@ Pelvic exam
 Wet mount
 Cervical cultures
 KOH prep ("whiff test")
-pH of vaginal fiuid
+pH of vaginal fluid
 :P
 30 yo F presents with a thick, white,
 cottage cheese-like, odorless vaginal
@@ -2411,7 +2411,7 @@ Pelvic exam
 KOH prep ("whiff test")
 Wet mount
 Cervical cultures
-pH of vaginal fiuid
+pH of vaginal fluid
 :P
 35 yo F presents with a malodorous,
 profuse, frothy, greenish vaginal
@@ -2426,20 +2426,20 @@ Cervicitis (chlamydia, gonorrhea)
 Pelvic exam
 Wet mount
 Cervical cultures
-pH of the vaginal fiuid
+pH of the vaginal fluid
 KOH prep ("whiff test")
 :S
 DYSPAREUNIA
 :Key History
 Duration, timing, associated symptoms (vaginal discharge, rash, painful menses, GI symptoms, hot
-fiushes), adequacy of lubrication; libido; sexual history; history of sexual trauma or domestic violence;
+flushes), adequacy of lubrication; libido; sexual history; history of sexual trauma or domestic violence;
 history of endometriosis, PID, or prior abdominal/pelvic surgeries.
 :Key Physical Exam
 Vital signs; abdominal exam; complete pelvic exam.
 :P
 54 yo F c/o painful intercourse. Her last
 menstrual period was nine months ago.
-She has hot fiushes.
+She has hot flushes.
 :D
 Atrophic vaginitis 
 Endometriosis
@@ -2548,7 +2548,7 @@ MRI-wrist
 :P
 28 yo F presents with pain in the
 interphalangeal joints of her hands
-together with hair loss and a butterfiy
+together with hair loss and a butterfly
 rash on the face.
 :D
 Systemic lupus erythematosus (SLE)
@@ -2571,7 +2571,7 @@ rheumatoid arthritis.
 Rheumatoid arthritis
 SLE
 Disseminated gonorrhea
-Arthritis associated with infiammatory bowel disease
+Arthritis associated with inflammatory bowel disease
 Osteoarthritis
 :W
 ANA, anti-dsDNA, ESR, RF
@@ -2611,7 +2611,7 @@ CBC
 :P
 40 yo M presents with pain in the right
 groin after a motor vehicle accident. His
-right leg is fiexed at the hip, adducted,
+right leg is flexed at the hip, adducted,
 and internally rotated.
 :D
 Hip dislocation-traumatic
@@ -2637,7 +2637,7 @@ Meniscal or ligament damage
 XR-knee
 CBC
 ESR
-Knee arthrocentesis and synovial fiuid analysis (cell count, Gram stain, culture, crystals)
+Knee arthrocentesis and synovial fluid analysis (cell count, Gram stain, culture, crystals)
 MRI-knee
 :P
 45 yo M presents with right knee pain
@@ -2651,9 +2651,7 @@ Trauma
 Reiter's arthritis
 :W
 CBC
-Knee arthrocentesis and
-synovial fiuid analysis (see
-above)
+Knee arthrocentesis and synovial fluid analysis (see above)
 Blood, urethral cultures
 XR-knee
 Uric acid
@@ -2686,7 +2684,7 @@ Bone scan
 when he plays tennis. His grip is
 impaired as a result of the pain. There is
 tenderness over the lateral epicondyle as
-well as pain on resisted wrist dorsifiexion
+well as pain on resisted wrist dorsiflexion
 with the elbow in extension.
 :D
 Tennis elbow (lateral epicondylitis)
@@ -2698,7 +2696,7 @@ MRI-elbow
 :P
 27 yo F presents with painful wrists and
 elbows, a swollen and hot knee joint that
-is painful on fiexion, a rash on her limbs,
+is painful on flexion, a rash on her limbs,
 and vaginal discharge. She is sexually
 active with multiple partners and
 occasionally uses condoms.
@@ -2709,7 +2707,7 @@ SLE
 Psoriatic arthritis
 Reiter's arthritis
 :W
-Knee arthrocentesis and synovial fiuid analysis (cell count, Gram stain, culture)
+Knee arthrocentesis and synovial fluid analysis (cell count, Gram stain, culture)
 ANA, anti-dsDNA, ESR, RF,
 CBC
 Blood, cervical cultures
