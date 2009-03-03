@@ -1522,8 +1522,7 @@ Mesenteric ischemia
 Rectal exam
 Amylase, lipase, lactate
 AST/ALT/bilirubin/alkaline phosphatase
-Endoscopy (including H. pylori
-testing)
+Endoscopy (including H. pylori testing)
 Upper GI series
 :P
 37 yo M presents with severe epigastric
@@ -1901,8 +1900,7 @@ Esophageal varices
 Rectal exam
 CBC, electrolytes
 AST/ALT/bilirubin/alkaline phosphatase
-Endoscopy (including H. pylori
-testing if ulcer is confirmed)
+Endoscopy (including H. pylori testing if ulcer is confirmed)
 :P
 40 yo F presents with epigastric pain and
 coffee-ground emesis. She has a history
