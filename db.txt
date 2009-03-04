@@ -2105,8 +2105,7 @@ Prostatitis
 Genital + rectal exam
 UA
 Urine culture
-Gram stain and culture of
-urethral discharge
+Gram stain and culture of urethral discharge
 Chlamydia and gonorrhea PCR
 :P
 45 yo diabetic F presents with dysuria,
@@ -2125,7 +2124,7 @@ CBC, BUN/Cr
 U/S-renal
 CT-abdomen
 :S
-E RECTILE DYSFUNCTION (ED)
+ERECTILE DYSFUNCTION (ED)
 :Key History
 Duration, severity, + nocturnal erections, libido, stress or depression, trauma, associated incontinence;
 medications (and recent changes); past medical history (hypertension, diabetes, high cholesterol, known
