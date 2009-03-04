@@ -206,7 +206,10 @@ class Test:
 		p2 = show_resp("Resp W", self.minidiag.ww, self.ww)
 		#Calculate points as mean between the two sets of answers
 		p = (p1+p2)/2
-		print '-- %.2f -- %s' % (p, '*' * int(p*20))
+		if p < 0.5: col = 12 #red
+		elif p < 0.8: col = 14 #yellow
+		else: col=10 #green
+		hilite('-- %.2f -- %s' % (p, '*' * int(p*20)), col)
 		return p
 
 class Tester:
