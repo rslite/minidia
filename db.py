@@ -16,10 +16,15 @@ COL_OK, COL_BAD, COL_SEMIOK = 10, 12, 14
 # Match threshold to consider a good response
 GOOD_THRESHOLD = 0.8
 
+lincol = [37, 34, 32, 36, 31, 35, 33, 30]
 def setcol(col):
 	if stdout:
 		return ctypes.windll.kernel32.SetConsoleTextAttribute(stdout, col)
 	else:
+		s = '\033['
+		if col & 8: s += '1;'
+		s += str(lincol[col & 7]) + 'm'
+		print s,
 		return False
 
 def hilite(txt, col=15, nl=True):
