@@ -2228,8 +2228,12 @@ Thyroid disease
 :W
 Pelvic exam
 Urine hCG
+<<<<<<< HEAD:db.txt
 LH/FSH, TSH, prolactin
 Testosterone, DHEAS
+=======
+LH/FSH, TSH, prolactin, testosterone, DHEAS
+>>>>>>> origin/master:db.txt
 CBC
 MRI-brain
 :P

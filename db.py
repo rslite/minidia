@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 from optparse import OptionParser
-import ctypes, difflib, random, re, sys
+import ctypes, difflib, pickle, random, re, sys
 
 STD_INPUT_HANDLE = -10
 STD_OUTPUT_HANDLE= -11
@@ -16,10 +16,15 @@ COL_OK, COL_BAD, COL_SEMIOK = 10, 12, 14
 # Match threshold to consider a good response
 GOOD_THRESHOLD = 0.8
 
+lincol = [37, 34, 32, 36, 31, 35, 33, 30]
 def setcol(col):
 	if stdout:
 		return ctypes.windll.kernel32.SetConsoleTextAttribute(stdout, col)
 	else:
+		s = '\033['
+		if col & 8: s += '1;'
+		s += str(lincol[col & 7]) + 'm'
+		print s,
 		return False
 
 def hilite(txt, col=15, nl=True):
@@ -250,18 +255,48 @@ class Tester:
 			hilite('* Result %d of %d *' % (i+1, len(self.tests)))
 			t.show()
 
+class Settings:
+	def __init__(self):
+		self.randseed = 20
+
+	def save(self):
+		f = open('db.dat', 'wb')
+		pickle.dump(self.randseed, f)
+		f.close()
+
+	def load(self):
+		try:
+			f = open('db.dat', 'rb')
+			self.randseed = pickle.load(f)
+			f.close()
+		except:
+			pass
+
 def main():
 	parser = OptionParser()
 	parser.add_option("-r", "--randomize", dest="rand_seed", type="int", help="seed for randomizer")
-	parser.add_option("-c", "--crt", dest="id", type="int", help="show a specific question based on its current number")
+	parser.add_option("-k", "--key", dest="id", type="int", help="show a specific question based on its current number")
 	parser.add_option("-n", "--number", dest="number", type="int", default=1, help="number of tests to administer (default 1)")
 	parser.add_option("-i", "--info", dest="show_info", action='store_true', default=False, help="show DB info and exit")
 	parser.add_option("-v", "--verbose", dest="verbose", action='store_true', default=False, help="increase output verbosity")
+	parser.add_option("-c", "--continue", dest="cont", action='store_true', default=False, help="inc last saved number as rand seed")
+	parser.add_option("-s", "--same", dest="same", action='store_true', default=False, help="use last saved number as rand seed")
 	parser.add_option("", "--nocolor", dest="nocolor", action='store_true', default=False, help="don't use console coloring")
 	global opts
 	(opts, args) = parser.parse_args()
 	if opts.rand_seed:
+		#Use provided random seed
 		random.seed(int(opts.rand_seed))
+	elif opts.same or opts.cont:
+		#Use saved random seed
+		s = Settings()
+		s.load()
+		#If continuing we get the next random seed
+		if opts.cont:
+			s.randseed += 1
+			s.save()
+		hilite('Random seed: %d' % s.randseed, 3)
+		random.seed(s.randseed)
 	
 	db = DB()
 
