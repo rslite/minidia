@@ -286,7 +286,11 @@ def main():
 	(opts, args) = parser.parse_args()
 	if opts.rand_seed:
 		#Use provided random seed
-		random.seed(int(opts.rand_seed))
+		rs = int(opts.rand_seed)
+		s = Settings()
+		s.randseed = rs
+		s.save()
+		random.seed(rs)
 	elif opts.same or opts.cont:
 		#Use saved random seed
 		s = Settings()
@@ -295,7 +299,7 @@ def main():
 		if opts.cont:
 			s.randseed += 1
 			s.save()
-		hilite('Random seed: %d' % s.randseed, 3)
+		opts.rand_seed = s.randseed
 		random.seed(s.randseed)
 	
 	db = DB()
@@ -313,6 +317,7 @@ def main():
 
 	tester = Tester(db)
 	tester.init_session()
+	hilite('Random seed: %d' % s.randseed, 3)
 	if opts.id:
 		tester.id_test(opts.id)
 	else:
